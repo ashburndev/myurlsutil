@@ -1,0 +1,3245 @@
+MyUrls - 20220327
+
+https://getpocket.com/explore/item/essential-knots-how-to-tie-the-20-knots-you-need-to-know?utm_source=pocket-newtab
+
+https://www.vox.com/22961563/putin-russia-ukraine-coup-revolution-invasion
+
+
+https://www.smithsonianmag.com/history/the-20th-century-history-behind-russias-invasion-of-ukraine-180979672/?utm_source=pocket-newtab
+
+https://stackoverflow.com/questions/71007812/upgrade-log4j22-17-1-in-grails-project-with-grails-version-2-5-6?utm_source=dlvr.it&utm_medium=twitter
+
+https://www.dell.com/en-us/work/shop/pfydresults/205146?categoryId=6554
+https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/ 20220317.212658 
+
+https://node.dev/post/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/ 20220317.213621 
+
+https://node.dev/post/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/ 20220317.235725 
+
+https://phoenixnap.com/kb/install-mysql-ubuntu-20-04 20220317.235817 
+
+https://phoenixnap.com/kb/install-mysql-ubuntu-20-04 20220317.235928 
+
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04 20220317.235959 
+
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04 20220318.000155 
+
+https://www.mysqltutorial.org/install-mysql-ubuntu/ 20220318.000312 
+
+https://www.mysqltutorial.org/install-mysql-ubuntu/ 20220318.000505 
+
+https://ubuntu.com/server/docs/databases-mysql 20220318.000523 
+
+https://ubuntu.com/server/docs/databases-mysql 20220318.000720 
+
+https://www.geeksforgeeks.org/7-must-have-intellij-idea-plugins-for-java-developers/ 20220318.055701 
+
+https://www.cnbc.com/2022/03/17/if-youre-returning-to-work-after-retiring-how-to-handle-medicare.html 20220318.060451 
+
+https://www.cnbc.com/2022/03/17/if-youre-returning-to-work-after-retiring-how-to-handle-medicare.html 20220318.060539 
+
+https://www.howtogeek.com/790062/how-to-install-bash-on-windows-11/ 20220318.173421 
+
+https://www.howtogeek.com/790062/how-to-install-bash-on-windows-11/ 20220318.173522 
+
+https://www.theregister.com/2022/03/17/openness_of_oracle_licensing/ 20220318.174240 
+
+https://www.infoq.com/news/2022/03/jrebel-report-2022/ 20220318.174618 
+
+https://www.archives.gov/founding-docs/amendments-11-27 20220319.032327 
+
+https://www.archives.gov/founding-docs/amendments-11-27 20220319.034117 
+
+https://arstechnica.com/gadgets/2022/03/mac-studio-review-a-nearly-perfect-workhorse-mac/ 20220319.041346 
+
+https://arstechnica.com/gadgets/2022/03/mac-studio-review-a-nearly-perfect-workhorse-mac/ 20220319.041739 
+
+https://arstechnica.com/gadgets/2022/03/mac-studio-review-a-nearly-perfect-workhorse-mac/ 20220319.042227 
+
+https://arstechnica.com/gadgets/2022/03/mac-studio-review-a-nearly-perfect-workhorse-mac/ 20220319.042240 
+
+https://nypost.com/2022/03/17/mom-of-8-astonishes-internet-with-photo-with-daughters/ 20220319.042604 
+
+https://arstechnica.com/information-technology/2022/03/sabotage-code-added-to-popular-npm-package-wiped-files-in-russia-and-belarus/ 20220319.043945 
+
+https://arstechnica.com/information-technology/2022/03/sabotage-code-added-to-popular-npm-package-wiped-files-in-russia-and-belarus/ 20220319.044227 
+
+https://arstechnica.com/information-technology/2022/03/sabotage-code-added-to-popular-npm-package-wiped-files-in-russia-and-belarus/ 20220319.044917 
+
+https://9to5mac.com/2022/03/18/mac-studio-ssd-upgrade-question/ 20220319.045600 
+
+https://9to5mac.com/2022/03/18/mac-studio-ssd-upgrade-question/ 20220319.045743 
+
+https://nypost.com/2022/03/18/russian-cosmonauts-arrive-at-international-space-station-in-ukrainian-colors/ 20220319.050714 
+
+https://nypost.com/2022/03/17/drone-video-shows-russian-tank-blown-up-as-crew-tries-to-escape/ 20220319.050825 
+
+https://stackoverflow.com/questions/2392766/are-multi-line-strings-allowed-in-json 20220319.072321 
+
+https://www.gun.io/blog/multi-line-strings-in-json 20220319.072516 
+
+https://www.gun.io/blog/multi-line-strings-in-json 20220319.072637 
+
+https://www.baeldung.com/java-8-interview-questions 20220319.073535 
+
+https://www.baeldung.com/java-8-interview-questions 20220319.073818 
+
+https://www.baeldung.com/java-8-interview-questions 20220319.074055 
+
+https://pragprog.com/titles/snfocus/pomodoro-technique-illustrated/ 20220319.074457 
+
+https://varlastore.com/product/multifunctional-rearview-mirror-phone-holder/?twclid=11505147534762815491 20220319.075804 
+
+https://varlastore.com/product/multifunctional-rearview-mirror-phone-holder/?twclid=11505147534762815491 20220319.080009 
+
+http://tutorials.jenkov.com/java/index.html#new-in-java-16 20220319.081657 
+
+http://tutorials.jenkov.com/java/index.html#new-in-java-16 20220319.081815 
+
+https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/ 20220319.082736 
+
+https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/ 20220319.085253 
+
+https://media.pragprog.com/titles/dcbang2/login.pdf 20220319.085832 
+
+https://www.techradar.com/news/half-of-americans-accept-all-cookies-despite-the-security-risk 20220319.091049 
+
+
+https://www.dell.com/support/home/en-us/product-support/servicetag/0-Mm9HcmsxMzlSQXZrNkRzYmoyeTRldz090/upgrade
+
+https://9to5mac.com/2022/03/16/customer-hands-on-mac-studio-before-release/
+
+https://www.youtube.com/watch?v=Epiresqrv3g
+
+Apple Mac Studio & Mac Studio Display UNBOXING
+
+https://m.youtube.com/watch?v=0BpmqLFQkP4 20220319.092451 What Makes a Good Presentation Description?
+https://appuals.com/how-to-fix-ibooks-not-syncing-between-devices/ 20220319.092933 
+
+https://www.tenorshare.com/iphone-fix/fix-ibooks-not-syncing-pdfs-after-ios-11-update.html 20220319.092955 
+
+https://support.apple.com/en-us/HT205751 20220319.093236 
+
+https://support.apple.com/en-gb/HT205751 20220319.093425 
+
+https://www.simplehelp.net/2010/06/22/how-to-add-pdf-files-to-read-in-ibooks-on-your-ipad-ipod-touch-or-iphone/ 20220319.093610 
+
+https://support.apple.com/en-us/HT206481 20220319.095427 
+
+https://support.apple.com/en-us/HT206481 20220319.095457 
+
+https://medium.com/codex/building-your-first-rest-api-java-and-spring-boot-5f3573f59f55 20220319.221454 
+
+https://jcofman.de/blog/vs-code-tips 20220319.222844 
+
+https://nypost.com/2022/03/18/intelligence-experts-refuse-to-apologize-for-smearing-hunter-biden-story/ 20220319.234847 
+
+https://nypost.com/2022/03/18/intelligence-experts-refuse-to-apologize-for-smearing-hunter-biden-story/ 20220320.000203 
+
+https://en.wikipedia.org/wiki/Apache_Lucene 20220320.001340 
+
+https://nypost.com/2022/03/19/republicans-call-for-new-probe-into-hunter-biden-laptop/ 20220320.001457 
+
+https://nypost.com/2022/03/19/republicans-call-for-new-probe-into-hunter-biden-laptop/ 20220320.001607 
+
+https://nypost.com/2022/03/19/republicans-call-for-new-probe-into-hunter-biden-laptop/ 20220320.002246 
+
+https://the-gadgeteer.com/2022/03/14/turn-your-apple-watch-into-a-leatherman-multi-tool/ 20220320.072628 
+
+https://the-gadgeteer.com/2022/03/17/this-is-the-easiest-way-to-add-led-lighting-effects-to-your-car-or-laptop/ 20220320.072835 
+
+https://medium.com/google-cloud/learning-from-log4j-2-vulnerability-eba946d31980 20220320.073043 
+
+https://wtop.com/business-finance/2022/03/booz-allen-to-acquire-reston-intel-company/ 20220320.073129 
+
+https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645 20220320.074409 
+
+https://lifehacker.com/ 20220320.074804 
+
+https://www.foxnews.com/media/hunter-biden-federal-court-delaware-lunden-roberts-documents-devine 20220320.075204 
+
+https://www.foxnews.com/media/hunter-biden-federal-court-delaware-lunden-roberts-documents-devine 20220320.075658 
+
+http://tutorials.jenkov.com/java/index.html#new-in-java-18 20220320.082815 
+
+http://tutorials.jenkov.com/java/index.html#new-in-java-18 20220320.082848 
+
+https://github.com/jjenkov/javafx-examples 20220320.082920 
+
+https://github.com/mikeroyal/AWS-Guide 20220320.084212 
+
+https://github.com/mikeroyal/AWS-Guide 20220320.084333 
+
+https://itnext.io/deploy-an-angular-application-on-aws-using-serverless-5e099a851e92 20220320.090403 
+
+https://blogs.oracle.com/javamagazine/post/java-switch-statements-expressions 20220320.091133 
+
+https://blogs.oracle.com/javamagazine/post/java-switch-statements-expressions 20220320.091213 
+
+https://www.schemacrawler.com/changes-report.html 20220320.091529 
+
+https://www.schemacrawler.com/index.html 20220320.091835 
+
+https://www.nationalgallery.org.uk/paintings/studio-of-peter-paul-rubens-portrait-of-the-archduke-albert 20220320.092113 
+
+https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/ 20220320.092330 
+
+https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/ 20220320.092644 
+
+https://www.youtube.com/watch?v=-6lsLjhK7y4 20220320.092730 
+
+https://www.youtube.com/watch?v=pJWCwfv983Q 20220320.092858 
+
+https://www.baeldung.com/cs/ssl-vs-tls 20220320.095838 
+
+https://www.baeldung.com/cs/ssl-vs-tls 20220320.100501 
+
+https://mijorus.medium.com/thermal-tweaks-on-dell-laptops-running-linux-769c8c80022e 20220320.101512 
+
+https://www.cnet.com/culture/entertainment/best-sci-fi-tv-shows-on-prime-video-2022/ 20220320.103239 
+
+https://www.cnet.com/culture/entertainment/best-sci-fi-tv-shows-on-prime-video-2022/ 20220320.103541 
+
+https://www.reviewgeek.com/111596/why-usb-c-isnt-the-one-port-to-rule-them-all-yet/ 20220320.103559 
+
+https://www.furnitureacademy.com/sync-la-z-boy-wireless-remote/ 20220320.103749 
+
+https://www.furnitureacademy.com/sync-la-z-boy-wireless-remote/ 20220320.205345 
+
+https://www.businessinsider.com/yuri-gagarin-name-removed-fundraiser-space-foundation-2022-3 20220320.205558 
+
+https://news.yahoo.com/female-swimmers-beaten-transgender-athlete-172345249.html 20220320.210127 
+
+https://theaviationgeekclub.com/did-you-know-the-sr-71-blackbird-pilots-survival-kit-included-a-very-rare-aluminum-gun-the-gun-was-made-in-aluminum-to-keep-it-lightweight/ 20220320.210954 
+
+https://www.tomsguide.com/news/iphone-14-vs-iphone-14-pro-get-ready-for-the-biggest-differences-in-years 20220320.211204 
+
+https://www.digitalocean.com/community/tutorials/how-to-use-mysql-with-your-ruby-on-rails-application-on-ubuntu-14-04 20220320.235129 
+
+https://www.digitalocean.com/community/tutorials/how-to-use-mysql-with-your-ruby-on-rails-application-on-ubuntu-14-04 20220320.235500 
+
+https://www.digitalocean.com/community/tutorials/how-to-use-mysql-with-your-ruby-on-rails-application-on-ubuntu-14-04 20220320.235547 
+
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04 20220320.235909 
+
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04 20220321.000223 
+
+https://phoenixnap.com/kb/install-mysql-ubuntu-20-04 20220321.000340 
+
+https://linuxize.com/post/how-to-install-mysql-on-ubuntu-18-04/ 20220321.000412 
+
+https://linuxize.com/post/how-to-install-mysql-on-ubuntu-18-04/ 20220321.000616 
+
+https://www.mysqltutorial.org/install-mysql-ubuntu/ 20220321.000657 
+
+https://www.mysqltutorial.org/install-mysql-ubuntu/ 20220321.000811 
+
+https://ubuntu.com/server/docs/databases-mysql 20220321.000839 
+
+https://ubuntu.com/server/docs/databases-mysql 20220321.000945 
+
+https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/ 20220321.001221 
+
+https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/ 20220321.001406 
+
+https://dev.mysql.com/downloads/mysql/ 20220321.001543 
+
+https://dev.mysql.com/downloads/mysql/ 20220321.001611 
+
+https://guides.rubyonrails.org/getting_started.html 20220321.002756 
+
+https://guides.rubyonrails.org/getting_started.html#mvc-and-you-generating-a-model 20220321.004318 
+
+https://stackoverflow.com/questions/4384284/ruby-on-rails-generates-model-fieldtype-what-are-the-options-for-fieldtype 20220321.004744 
+
+https://stackoverflow.com/questions/4384284/ruby-on-rails-generates-model-fieldtype-what-are-the-options-for-fieldtype 20220321.004943 
+
+https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html 20220321.211102 
+
+https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html 20220322.001029 
+
+https://dev.to/neshaz/how-to-use-rake-db-commands-in-the-correct-way--50o2 20220322.001158 
+
+https://dev.to/neshaz/how-to-use-rake-db-commands-in-the-correct-way--50o2 20220322.001612 
+
+https://kolosek.com/rails-scaffold/ 20220322.002841 
+
+https://stackoverflow.com/questions/16758184/new-to-rails-setting-up-db-then-running-rake-dbcreate-migrate 20220322.003528 
+
+https://guides.rubyonrails.org/active_record_migrations.html#setup-the-database 20220322.003816 
+
+https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-march-2022/ 20220322.060414 
+
+https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-march-2022/ 20220322.060806 
+
+https://thehackernews.com/2022/03/new-dell-bios-bugs-affect-millions-of.html 20220322.061154 
+
+https://thehill.com/homenews/senate/599040-graham-fumes-at-confirmation-hearing-childs-treatment-vicious 20220322.061604 
+
+https://blog.mozilla.org/en/products/firefox/extensions-addons/firefox-extension-helps-bring-movie-magic-to-theaters-near-you/ 20220322.061749 
+
+https://www.bleepingcomputer.com/news/microsoft/windows-zero-day-flaw-giving-admin-rights-gets-unofficial-patch-again/ 20220322.062030 
+
+https://dev.to/this-is-learning/visual-studio-code-tips-tricks-snippets-5041 20220322.062129 
+
+https://dev.to/this-is-learning/visual-studio-code-tips-tricks-snippets-5041 20220322.062258 
+
+https://512pixels.net/2022/03/on-the-mac-studios-extra-ssd-slots/ 20220322.062538 
+
+https://ios.gadgethacks.com/how-to/your-ipad-has-hidden-built-calculator-youre-not-using-heres-unlock-0385000/ 20220322.063251 
+
+https://www.nj.com/news/2022/03/nasa-rocket-launch-from-wallops-facility-may-be-visible-from-7-states-including-nj-and-pa.html 20220322.063547 
+
+https://www.nj.com/news/2022/03/nasa-rocket-launch-from-wallops-facility-may-be-visible-from-7-states-including-nj-and-pa.html 20220322.063601 
+
+https://www.macrumors.com/2022/03/21/mac-studio-ssd-not-user-upgradeable/ 20220322.063647 
+
+https://www.infoq.com/news/2022/03/java-news-roundup-mar14-2022/ 20220322.063732 
+
+https://www.infoq.com/news/2022/03/java-news-roundup-mar14-2022/ 20220322.064155 
+
+https://www.devilslakejournal.com/story/lifestyle/2022/03/20/ask-rusty-my-husband-still-works-must-he-enroll-age-65/7075709001/ 20220322.064232 
+
+https://www.devilslakejournal.com/story/lifestyle/2022/03/20/ask-rusty-my-husband-still-works-must-he-enroll-age-65/7075709001/ 20220322.064348 
+
+https://www.makeuseof.com/atari-vcs-os-update-new-features/ 20220322.065008 
+
+https://www.bobvila.com/articles/free-dewalt-tool-lowes-powerstack-battery-deal/ 20220322.065513 
+
+https://www.lowes.com/pd/DEWALT-20V-MAX-DEWALT-174-POWERSTACK-8482-Compact-Battery-2-PK/5012913071 20220322.065545 
+
+https://www.lowes.com/pd/DEWALT-20V-MAX-DEWALT-174-POWERSTACK-8482-Compact-Battery-2-PK/5012913071 20220322.065945 
+
+https://www.lowes.com/pd/DEWALT-20V-MAX-DEWALT-174-POWERSTACK-8482-Compact-Battery-2-PK/5012913071 20220322.065958 
+
+https://www.foxnews.com/media/msnbc-cnn-cbs-hunter-biden-laptop-russian-disinformation-media 20220322.070238 
+
+https://www.foxnews.com/media/msnbc-cnn-cbs-hunter-biden-laptop-russian-disinformation-media 20220322.070455 
+
+https://www.macrumors.com/2022/03/21/ios-15-4-scan-text-into-notes-app-feature/ 20220322.071446 
+
+https://blogs.oracle.com/java/post/javaone-is-back 20220322.211204 
+
+https://www.oracle.com/cloudworld/javaone/ 20220322.211300 
+
+https://www.oracle.com/cloudworld/javaone/ 20220322.211332 
+
+https://openjdk.java.net/projects/jdk/18/ 20220322.211549 
+
+https://stackoverflow.com/questions/4384284/ruby-on-rails-generates-model-fieldtype-what-are-the-options-for-fieldtype 20220322.212054 
+
+https://stackoverflow.com/questions/4384284/ruby-on-rails-generates-model-fieldtype-what-are-the-options-for-fieldtype 20220322.212224 
+
+https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/ 20220322.212541 
+
+https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/ 20220322.212612 
+
+https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html 20220322.212624 
+
+https://dev.mysql.com/downloads/mysql/ 20220322.212636 
+
+https://www.digitalocean.com/community/tutorials/how-to-use-mysql-with-your-ruby-on-rails-application-on-ubuntu-14-04 20220322.212649 
+
+https://www.tomsguide.com/news/iphone-14-vs-iphone-14-pro-get-ready-for-the-biggest-differences-in-years 20220322.212950 
+
+http://pmatsinopoulos.github.io/blog/2014/06/11/using-string-column-type-for-migrations/ 20220323.032234 
+
+https://inside.java/2022/03/22/the-arrival-of-java18/ 20220323.032307 
+
+https://inside.java/2022/03/22/the-arrival-of-java18/ 20220323.032348 
+
+https://inside.java/2022/03/22/the-arrival-of-java18/ 20220323.032610 
+
+https://betterprogramming.pub/empowering-a-rails-application-with-uuid-as-default-primary-key-44cd740828e8 20220323.032658 
+
+https://9to5linux.com/ubuntu-users-receive-a-new-major-linux-kernel-update-22-security-flaws-patched 20220323.032742 
+
+https://9to5linux.com/ubuntu-users-receive-a-new-major-linux-kernel-update-22-security-flaws-patched 20220323.033031 
+
+https://hackaday.com/2022/03/21/web-serial-terminal-means-its-always-hacking-time/ 20220323.033200 
+
+https://www.bleepingcomputer.com/news/security/hundreds-of-hp-printer-models-vulnerable-to-remote-code-execution/ 20220323.033242 
+
+https://www.infoq.com/news/2022/03/java18-released/ 20220323.033614 
+
+https://www.infoq.com/news/2022/03/java18-released/ 20220323.033640 
+
+https://www.foxnews.com/media/hunter-bidens-laptop-ex-cia-officer-buck-sexton-rips-former-colleagues-refusal-to-apologize 20220323.034218 
+
+https://www.foxnews.com/media/hunter-bidens-laptop-ex-cia-officer-buck-sexton-rips-former-colleagues-refusal-to-apologize 20220323.034433 
+
+https://nypost.com/2022/03/21/barr-biden-lied-to-the-american-people-about-his-hunters-emails/ 20220323.034512 
+
+https://m.youtube.com/watch?v=JbTPWFkZaPg 20220323.034636 
+
+https://m.youtube.com/watch?v=JbTPWFkZaPg 20220323.034647 
+
+https://www.phoronix.com/scan.php?page=news_item&px=OpenJDK-18-Released 20220323.034847 
+
+https://www.foxnews.com/us/video-california-biden-we-want-him-out-preschoolers-chant-controversy 20220323.035156 
+
+https://www.bleepingcomputer.com/news/security/hundreds-of-hp-printer-models-vulnerable-to-remote-code-execution/ 20220323.035657 
+
+https://9to5linux.com/ubuntu-users-receive-a-new-major-linux-kernel-update-22-security-flaws-patched 20220323.064921 
+
+http://pmatsinopoulos.github.io/blog/2014/06/11/using-string-column-type-for-migrations/ 20220323.065435 
+
+http://pmatsinopoulos.github.io/blog/2014/06/11/using-string-column-type-for-migrations/ 20220323.065444 
+
+https://www.xyzpub.com/en/ruby-on-rails/4.0/activerecord_datenbank_anlegen.html 20220323.071909 
+
+https://guides.rubyonrails.org/active_record_migrations.html#setup-the-database 20220323.072110 
+
+https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html 20220323.073317 
+
+https://stackoverflow.com/questions/4384284/ruby-on-rails-generates-model-fieldtype-what-are-the-options-for-fieldtype 20220323.073328 
+
+https://dev.mysql.com/downloads/mysql/ 20220323.073341 
+
+https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/ 20220323.073357 
+
+https://www.digitalocean.com/community/tutorials/how-to-use-mysql-with-your-ruby-on-rails-application-on-ubuntu-14-04 20220323.073412 
+
+https://petapixel.com/2022/03/01/owc-ministack-stx-review-moar-power-captain/ 20220324.054906 
+
+https://petapixel.com/2022/03/01/owc-ministack-stx-review-moar-power-captain/ 20220324.060006 
+
+https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html 20220324.060129 
+
+https://dev.mysql.com/downloads/mysql/ 20220324.060154 
+
+https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/ 20220324.060218 
+
+https://stackoverflow.com/questions/4384284/ruby-on-rails-generates-model-fieldtype-what-are-the-options-for-fieldtype 20220324.060232 
+
+https://www.digitalocean.com/community/tutorials/how-to-use-mysql-with-your-ruby-on-rails-application-on-ubuntu-14-04 20220324.060248 
+
+https://www.reviewgeek.com/111596/why-usb-c-isnt-the-one-port-to-rule-them-all-yet/ 20220324.060306 
+
+https://jcofman.de/blog/vs-code-tips 20220324.060336 
+
+https://solr.apache.org/downloads.html 20220324.060459 
+
+https://github.com/apache/solr 20220324.061719 
+
+https://github.com/apache/solr 20220324.062300 
+
+https://solr.apache.org/guide/8_11/solr-tutorial.html 20220324.064122 
+
+https://vladmihalcea.com/java-performance-tuning-lightrun/ 20220324.073812 
+
+https://vladmihalcea.com/java-performance-tuning-lightrun/ 20220324.073917 
+
+https://lifehacker.com/this-is-the-best-screenshot-tool-for-windows-1848690325 20220324.074047 
+
+https://lifehacker.com/all-the-ways-to-take-screenshots-in-windows-11-1847697682 20220324.074138 
+
+https://pawelurbanek.com/uuid-order-rails 20220324.074220 
+
+https://dev.mysql.com/downloads/ 20220324.074409 
+
+https://dev.mysql.com/downloads/workbench/ 20220324.074434 
+
+https://dev.mysql.com/downloads/workbench/ 20220324.074528 
+
+https://webvision.mozilla.org/full/ 20220324.074555 
+
+https://webvision.mozilla.org/full/ 20220324.074731 
+
+https://linuxhint.com/installing_mysql_workbench_ubuntu/ 20220324.074825 
+
+https://linuxhint.com/installing_mysql_workbench_ubuntu/ 20220324.075130 
+
+https://linuxhint.com/installing_mysql_workbench_ubuntu/ 20220324.075458 
+
+https://phoenixnap.com/kb/mysql-workbench-ubuntu 20220324.075604 
+
+https://phoenixnap.com/kb/mysql-workbench-ubuntu 20220324.075833 
+
+https://dev.to/gsudarshan/how-to-install-mysql-and-workbench-on-ubuntu-20-04-localhost-5828 20220324.080002 
+
+https://dev.to/gsudarshan/how-to-install-mysql-and-workbench-on-ubuntu-20-04-localhost-5828 20220324.080140 
+
+https://computingforgeeks.com/install-and-use-mysql-workbench-on-ubuntu/ 20220324.080215 
+
+https://computingforgeeks.com/install-and-use-mysql-workbench-on-ubuntu/ 20220324.080630 
+
+https://dev.mysql.com/doc/workbench/en/ 20220324.080659 
+
+https://dev.mysql.com/doc/workbench/en/wb-develop.html 20220324.194423 
+
+https://dev.mysql.com/doc/workbench/en/wb-develop.html 20220324.194502 
+
+https://webvision.mozilla.org/full/ 20220325.020323 
+
+https://computingforgeeks.com/install-and-use-mysql-workbench-on-ubuntu/ 20220325.020630 
+
+https://www.tomshardware.com/news/dell-xps-15-xps-17-intel-alder-lake-h 20220325.020941 
+
+https://www.tomshardware.com/news/dell-xps-15-xps-17-intel-alder-lake-h 20220325.021515 
+
+https://www.tomshardware.com/news/dell-alienware-bios-updates-bsod-boot-loop 20220325.021653 
+
+https://www.tomshardware.com/news/dell-alienware-bios-updates-bsod-boot-loop 20220325.021932 
+
+https://www.zdnet.com/article/some-developers-are-fouling-up-open-source-software/ 20220325.023409 
+
+https://www.tomshardware.com/news/raspberry-pi-4-case-dickson-industries 20220325.023635 
+
+https://www.omgubuntu.co.uk/2022/03/ubuntu-22-04-wont-skimp-on-wallpapers-after-all 20220325.023938 
+
+https://www.omgubuntu.co.uk/2022/03/ubuntu-22-04-wont-skimp-on-wallpapers-after-all 20220325.024026 
+
+https://wtop.com/tracking-metro-24-7/2022/03/extreme-disappointment-metro-revises-plan-to-bring-back-7000-series-cars-silver-line-delayed/ 20220325.024115 
+
+https://wtop.com/tracking-metro-24-7/2022/03/extreme-disappointment-metro-revises-plan-to-bring-back-7000-series-cars-silver-line-delayed/ 20220325.025024 
+
+https://www.engadget.com/apple-mac-studio-teardown-ifixit-155843557.html 20220325.025449 
+
+https://www.engadget.com/apple-mac-studio-teardown-ifixit-155843557.html 20220325.025551 
+
+https://www.foxbusiness.com/politics/woke-home-depot-flyer-causes-online-stir 20220325.030547 
+
+https://www.cnn.com/2022/03/24/opinions/russian-troops-ukraine-war-putin-at-risk/index.html 20220325.031609 
+
+https://www.cnn.com/2022/03/24/opinions/russian-troops-ukraine-war-putin-at-risk/index.html 20220325.031655 
+
+https://www.foxnews.com/media/legislation-prevent-intelligence-community-spying-americans 20220325.032023 
+
+https://www.foxnews.com/media/legislation-prevent-intelligence-community-spying-americans 20220325.032302 
+
+https://www.zdnet.com/article/github-were-sorry-for-all-the-outages-heres-whats-went-wrong/ 20220325.033247 
+
+https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-22.04-NV-Wayland-Default 20220325.033601 
+
+https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-22.04-NV-Wayland-Default 20220325.033857 
+
+https://9to5mac.com/2022/03/23/ifixit-teardown-shows-that-mac-studios-internal-storage-is-replaceable-but-not-upgradable/ 20220325.034232 
+
+https://www.tomshardware.com/news/gigabyte-brix-alder-lake-nuc 20220325.034702 
+
+https://www.itprotoday.com/programming-languages/java-18-brings-new-features-accelerate-software-development 20220325.034853 
+
+https://www.itprotoday.com/programming-languages/java-18-brings-new-features-accelerate-software-development 20220325.035015 
+
+https://nypost.com/2022/03/23/your-iphone-has-a-map-of-everywhere-you-go-how-to-find-it/ 20220325.035551 
+
+https://guides.rubyonrails.org/association_basics.html 20220325.065106 
+
+https://electrictoolbox.com/load-data-mysql-foreign-key-constraints/ 20220325.073357 
+
+https://electrictoolbox.com/load-data-mysql-foreign-key-constraints-2/ 20220325.073433 
+
+https://blog.malwarebytes.com/exploits-and-vulnerabilities/2022/03/update-now-many-hp-printers-affected-by-three-critical-security-vulnerabilities/ 20220325.074021 
+
+https://www.theverge.com/tldr/2022/3/24/22994423/windows-11-notepad-app-spin-gear-settings 20220325.074543 
+
+https://www.theverge.com/tldr/2022/3/24/22994423/windows-11-notepad-app-spin-gear-settings 20220325.074819 
+
+https://sqlitebrowser.org/ 20220325.074908 
+
+https://sqlitebrowser.org/ 20220325.075027 
+
+https://sqlitebrowser.org/ 20220325.075035 
+
+https://www.itprotoday.com/programming-languages/java-18-brings-new-features-accelerate-software-development 20220325.075726 
+
+https://www.itprotoday.com/programming-languages/java-18-brings-new-features-accelerate-software-development 20220325.075755 
+
+https://www.usatoday.com/story/travel/destinations/2022/03/24/destinations-visit-without-us-passport/7130272001/ 20220325.080522 
+
+https://github.com/angular/angular/blob/master/aio/content/guide/roadmap.md 20220325.080954 
+
+https://github.com/angular/angular/blob/master/aio/content/guide/roadmap.md 20220325.081016 
+
+https://www.raspberrypi.com/news/raspberry-pi-pianola-roll-player/ 20220325.081429 
+
+https://www.raspberrypi.com/news/raspberry-pi-pianola-roll-player/ 20220325.081501 
+
+https://www.howtogeek.com/785677/best-hardware-security-keys/ 20220325.180137 
+
+https://medium.com/pragmatic-programmers/code-coupling-reducing-dependency-in-your-code-ae21c4534295 20220325.185454 
+
+https://www.howtogeek.com/785677/best-hardware-security-keys/ 20220325.185753 
+
+https://dev.mysql.com/doc/workbench/en/wb-relationship-tools.html 20220325.185816 
+
+https://dev.mysql.com/doc/workbench/en/wb-relationship-tools.html 20220325.185923 
+
+https://www.techzine.eu/news/security/75531/hundreds-of-hp-printer-models-are-highly-vulnerable-to-rce-and-dos/ 20220325.190016 
+
+https://medium.com/xgeeks/learn-to-access-java-database-with-jakarta-data-17fc3e2549b0 20220325.190322 
+
+https://medium.com/xgeeks/learn-to-access-java-database-with-jakarta-data-17fc3e2549b0 20220325.190431 
+
+https://lifehacker.com/8-easy-ways-to-improve-or-replace-windows-11s-start-m-1848684451 20220325.190530 
+
+https://lifehacker.com/8-easy-ways-to-improve-or-replace-windows-11s-start-m-1848684451 20220325.190816 
+
+https://www.tomsguide.com/how-to/how-to-care-for-an-orchid 20220325.190919 
+
+https://www.19fortyfive.com/2021/03/ranked-the-5-best-guns-for-senior-citizens/ 20220325.191908 
+
+https://www.foxnews.com/world/putin-banked-obama-biden-appeasement 20220325.192711 
+
+https://www.foxnews.com/world/putin-banked-obama-biden-appeasement 20220325.194413 
+
+https://www.infoq.com/news/2022/03/vaadin-introduces-hilla/ 20220325.194813 
+
+https://www.infoq.com/news/2022/03/vaadin-introduces-hilla/ 20220325.194923 
+
+https://www.macworld.com/article/347466/2022-mac-mini-design-processsor-price-release.html 20220325.213951 
+
+https://www.macworld.com/article/347466/2022-mac-mini-design-processsor-price-release.html 20220326.032929 
+
+https://appleinsider.com/articles/22/03/10/next-mac-mini-will-have-m2-and-m2-pro-apple-silicon-chip-options 20220326.033023 
+
+https://appleinsider.com/articles/22/03/20/cricut-maker-review-an-extremely-versatile-machine-that-could-use-some-software-innovation 20220326.034200 
+
+https://appleinsider.com/articles/22/03/20/cricut-maker-review-an-extremely-versatile-machine-that-could-use-some-software-innovation 20220326.035711 
+
+https://www.techradar.com/news/apple-mac-mini-2022 20220326.035814 
+
+https://www.techradar.com/news/apple-mac-mini-2022 20220326.041106 
+
+https://spy.com/articles/gadgets/electronics/dell-refreshes-xps-15-and-17-laptops-news-1202840865/ 20220326.043155 
+
+https://spy.com/articles/gadgets/electronics/dell-refreshes-xps-15-and-17-laptops-news-1202840865/ 20220326.043204 
+
+https://ios.gadgethacks.com/how-to/see-passwords-for-all-wi-fi-networks-youve-connected-your-iphone-0384995/ 20220326.043541 
+
+https://ios.gadgethacks.com/how-to/see-passwords-for-all-wi-fi-networks-youve-connected-your-iphone-0384995/ 20220326.043630 
+
+https://gardens.si.edu/learn/blog/history-of-the-orchid-collection-then-and-now/ 20220326.043707 
+
+https://www.lifewire.com/dell-refreshes-the-xps-15-and-17-with-intels-latest-cpu-5223517 20220326.043842 
+
+https://9to5mac.com/2022/03/25/unnecessary-inventions-magic-mouse-charging/ 20220326.044727 
+
+https://www.reviews.org/au/technology/dell-xps-15-xps-17-2022-specs-australian-price/ 20220326.044758 
+
+https://www.tomsguide.com/us/best-mini-pc.html 20220326.044920 
+
+https://www.tomsguide.com/us/best-mini-pc.html 20220326.045142 
+
+https://www.joshholtz.com/blog/2021/10/27/joshs-m1-development-environemnt.html 20220326.051124 
+
+https://grails.github.io/grails2-doc/2.5.4/guide/gettingStarted.html 20220326.051208 
+
+https://tika.apache.org/ 20220326.080154 
+
+https://poi.apache.org/ 20220326.081700 
+
+https://rubygems.org/gems/tika-client/versions/0.2.0 20220326.082830 
+
+https://rubygems.org/gems/tika-client/versions/0.2.0 20220326.082938 
+
+https://rubyflow.com/p/hziwoi-parsing-pdfs-using-tika-and-nokogiri-and-indexing-them-for-searching-using-algol 20220326.083213 
+
+https://stories.algolia.com/indexing-pdf-or-other-file-contents-for-searching-b2499c23568f 20220326.083255 
+
+https://stories.algolia.com/indexing-pdf-or-other-file-contents-for-searching-b2499c23568f 20220326.084221 
+
+https://github.com/yomurb/yomu 20220326.084346 
+
+https://github.com/yomurb/yomu 20220326.084709 
+
+https://rubygems.org/gems/yomu/versions/0.2.4 20220326.084732 
+
+https://rubygems.org/gems/yomu/versions/0.2.4 20220326.084742 
+
+https://www.rubydoc.info/gems/yomu/Yomu 20220326.084914 
+
+https://ruby.libhunt.com/yomu-alternatives 20220326.085213 
+
+https://stackoverflow.com/questions/54789000/rails-read-file-yomu-gem-psychsyntaxerror-exception-how-to-rescue 20220326.085400 
+
+https://www.staples.com/Staples-Glue-Top-Notepads-4-x-6-White/product_163444 20220326.090800 
+
+https://www.bleepingcomputer.com/news/security/us-says-kaspersky-poses-unacceptable-risk-to-national-security/ 20220326.101044 
+
+https://www.fcc.gov/supplychain/coveredlist 20220326.101449 
+
+https://www.bleepingcomputer.com/news/security/us-says-kaspersky-poses-unacceptable-risk-to-national-security/ 20220326.101525 
+
+https://nypost.com/2022/03/24/resistance-is-rising-to-woke-colleges-race-and-sex-discrimination/ 20220326.102353 
+
+https://github.com/readme/featured/server-side-languages-for-front-end 20220326.104420 
+
+https://ubuntu.com/server/docs/databases-mysql 20220326.104439 
+
+https://node.dev/post/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/ 20220326.104510 
+
+https://tecadmin.net/how-to-install-nvm-on-ubuntu-20-04/ 20220326.104532 
+
+https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/ 20220326.104556 
+
+https://plugins.grails.org/plugin/ajay-kumar/swagger 20220326.104627 
+
+https://arstechnica.com/gadgets/2022/03/ifixits-mac-studio-teardown-reviews-monster-cooling-system/ 20220326.104727 
+
+https://arstechnica.com/gadgets/2022/03/ifixits-mac-studio-teardown-reviews-monster-cooling-system/ 20220326.104805 
+
+https://arstechnica.com/gadgets/2022/03/ifixits-mac-studio-teardown-reviews-monster-cooling-system/ 20220326.104831 
+
+https://github.com/mximos/swagger-demo/blob/master/spec/spec_helper.rb 20220326.104922 
+
+https://github.com/mximos/swagger-demo/tree/master/spec 20220326.104941 
+
+https://github.com/mximos/swagger-demo/blob/master/spec/rails_helper.rb 20220326.104956 
+
+https://github.com/mximos/swagger-demo/tree/master/spec 20220326.105015 
+
+https://github.com/mximos/swagger-demo/tree/master/spec/integration 20220326.105031 
+
+https://github.com/mximos/swagger-demo/blob/master/spec/integration/pets_spec.rb 20220326.105047 
+
+https://github.com/mximos/swagger-demo/blob/master/spec/integration/pets_spec.rb 20220326.105101 
+
+https://github.com/mximos/swagger-demo/tree/master/spec/integration 20220326.105114 
+
+https://github.com/mximos/swagger-demo/tree/master/spec 20220326.105127 
+
+https://github.com/mximos/swagger-demo 20220326.105144 
+
+https://medium.com/@sushildamdhere/how-to-document-rest-apis-with-swagger-and-ruby-on-rails-ae4e13177f5d 20220326.105203 
+
+https://wtop.com/fairfax-county/2022/03/exhibit-featuring-hundreds-of-butterflies-coming-to-va-this-weekend/ 20220326.105508 
+
+https://nodejs.org/en/ 20220326.105540 
+
+https://github.com/nvm-sh/nvm 20220326.105612 
+
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04 20220326.105638 
+
+https://ubuntu.com/security/CVE-2020-8130 20220326.105733 
+
+https://ubuntu.com/security/notices/USN-4295-1 20220326.105750 
+
+https://dev.mysql.com/doc/refman/8.0/en/data-directory-initialization.html 20220326.105817 
+
+https://dev.mysql.com/doc/refman/8.0/en/windows-initialize-data-directory.html 20220326.105831 
+
+https://dev.mysql.com/doc/refman/8.0/en/windows-select-server.html 20220326.105848 
+
+https://dev.mysql.com/doc/refman/8.0/en/windows-create-option-file.html 20220326.105904 
+
+https://dev.mysql.com/doc/refman/8.0/en/windows-extract-archive.html 20220326.105920 
+
+https://dev.mysql.com/doc/refman/8.0/en/windows-install-archive.html 20220326.105937 
+
+https://dev.mysql.com/doc/refman/8.0/en/windows-installation-layout.html 20220326.105953 
+
+https://dev.mysql.com/doc/refman/8.0/en/windows-choosing-package.html 20220326.110007 
+
+https://dev.mysql.com/doc/refman/8.0/en/windows-installation-layout.html 20220326.110022 
+
+https://dev.mysql.com/doc/refman/8.0/en/windows-installation.html 20220326.110036 
+
+https://dev.mysql.com/doc/refman/8.0/en/linux-installation.html 20220326.110051 
+
+https://dev.mysql.com/doc/refman/8.0/en/linux-installation.html 20220326.110058 
+
+https://dev.mysql.com/doc/refman/8.0/en/linux-installation.html 20220326.110110 
+
+https://dev.mysql.com/doc/refman/8.0/en/linux-installation.html 20220326.110115 
+
+https://dev.mysql.com/doc/refman/8.0/en/verifying-package-integrity.html 20220326.110134 
+
+https://dev.mysql.com/downloads/mysql/ 20220326.110159 
+
+https://syrus.today/how-to-get-special-pixar-wallpapers-on-firefox-98-on-android-17127.html 20220326.110307 
+
+https://www.cotosen.com/products/mens-elastic-fabric-tear-resistant-tactical-multi-pocket-overalls-6839156.html 20220326.110438 
+
+https://www.cotosen.com/activity/best-seller-f-6811/ 20220326.110520 
+
+https://www.cotosen.com/products/western-aztec-panttern-outdoor-vintage-henley-collar-sweatshirt-7088699.html 20220326.110626 
+
+https://www.cotosen.com/products/western-aztec-panttern-outdoor-vintage-henley-collar-sweatshirt-7088699.html 20220326.110815 
+
+https://syrus.today/how-to-get-special-pixar-wallpapers-on-firefox-98-on-android-17127.html 20220326.110842 
+
+https://syrus.today/how-to-get-special-pixar-wallpapers-on-firefox-98-on-android-17127.html 20220326.110915 
+
+https://www.jetbrains.com/help/ruby/set-up-a-ruby-development-environment.html 20220326.111039 
+
+https://www.jetbrains.com/help/ruby/set-up-a-ruby-development-environment.html 20220326.111105 
+
+https://www.jetbrains.com/help/ruby/set-up-a-ruby-development-environment.html 20220326.111124 
+
+https://www.jetbrains.com/help/ruby/supported-ruby-versions.html 20220326.111201 
+
+https://www.jetbrains.com/help/ruby/supported-ruby-versions.html 20220326.111214 
+
+https://www.jetbrains.com/help/ruby/installation-guide.html 20220326.111231 
+
+https://www.jetbrains.com/help/ruby/version-control-integration.html 20220326.111248 
+
+https://www.jetbrains.com/help/ruby/version-control-integration.html 20220326.111305 
+
+https://www.jetbrains.com/help/ruby/opening-files-from-command-line.html 20220326.111327 
+
+https://www.jetbrains.com/help/ruby/working-with-the-ide-features-from-command-line.html 20220326.111346 
+
+https://www.jetbrains.com/help/ruby/run-for-the-first-time.html 20220326.111406 
+
+https://www.jetbrains.com/help/ruby/installation-guide.html 20220326.111422 
+
+https://www.jetbrains.com/help/ruby/installation-guide.html 20220326.111441 
+
+https://www.jetbrains.com/help/ruby/ruby-version-managers.html 20220326.111458 
+
+https://linuxize.com/post/how-to-install-ruby-on-ubuntu-20-04/ 20220326.111525 
+
+https://linuxize.com/post/how-to-install-ruby-on-ubuntu-20-04/ 20220326.111550 
+
+https://linuxize.com/post/how-to-install-ruby-on-ubuntu-20-04/ 20220326.111613 
+
+https://www.bleepingcomputer.com/news/security/us-says-kaspersky-poses-unacceptable-risk-to-national-security/ 20220326.111718 
+
+https://www.techradar.com/news/apple-m2 20220326.111805 
+
+https://www.techradar.com/news/apple-m2 20220326.112758 
+
+https://stackoverflow.com/questions/54789000/rails-read-file-yomu-gem-psychsyntaxerror-exception-how-to-rescue 20220326.112859 
+
+https://stackoverflow.com/questions/54789000/rails-read-file-yomu-gem-psychsyntaxerror-exception-how-to-rescue 20220326.112910 
+
+https://stories.algolia.com/indexing-pdf-or-other-file-contents-for-searching-b2499c23568f 20220326.112952 
+
+https://rubyflow.com/p/hziwoi-parsing-pdfs-using-tika-and-nokogiri-and-indexing-them-for-searching-using-algol 20220326.113009 
+
+https://poi.apache.org/text-extraction.html 20220326.113030 
+
+https://poi.apache.org/apidocs/index.html 20220326.113059 
+
+https://poi.apache.org/changes.html 20220326.113111 
+
+https://poi.apache.org/download.html 20220326.113126 
+
+https://poi.apache.org/download.html 20220326.113143 
+
+https://poi.apache.org/ 20220326.113158 
+
+https://tika.apache.org/2.3.0/formats.html 20220326.113221 
+
+https://tika.apache.org/2.3.0/gettingstarted.html 20220326.113235 
+
+https://tika.apache.org/2.3.0/index.html 20220326.113301 
+
+https://tika.apache.org/2.3.0/formats.html 20220326.113313 
+
+https://tika.apache.org/2.3.0/gettingstarted.html 20220326.113323 
+
+https://tika.apache.org/ 20220326.113336 
+
+https://grails.github.io/grails2-doc/2.5.4/guide/gettingStarted.html 20220326.113359 
+
+https://dev.mysql.com/doc/workbench/en/wb-relationship-tools.html 20220326.113547 
+
+https://dev.mysql.com/doc/workbench/en/wb-relationship-tools.html 20220326.113601 
+
+https://dev.mysql.com/doc/workbench/en/wb-relationship-tools.html 20220326.113613 
+
+https://dev.mysql.com/doc/workbench/en/wb-relationship-tools.html 20220326.113631 
+
+https://dev.mysql.com/doc/workbench/en/wb-relationship-tools.html 20220326.113650 
+
+https://dev.mysql.com/doc/workbench/en/wb-relationship-tools.html 20220326.113701 
+
+https://dev.mysql.com/doc/workbench/en/wb-relationship-tools.html 20220326.113715 
+
+https://dev.mysql.com/doc/workbench/en/wb-foreign-key-relationships.html 20220326.113736 
+
+https://dev.mysql.com/doc/workbench/en/wb-using-table-tool.html 20220326.113750 
+
+https://dev.mysql.com/doc/workbench/en/wb-tables-physical-schemata.html 20220326.113805 
+
+https://dev.mysql.com/doc/workbench/en/wb-tables.html 20220326.113817 
+
+https://dev.mysql.com/doc/workbench/en/wb-properties-palette.html 20220326.113831 
+
+https://dev.mysql.com/doc/workbench/en/wb-layers-palette.html 20220326.113940 
+
+https://dev.mysql.com/doc/workbench/en/wb-navigator-panel.html 20220326.114013 
+
+https://dev.mysql.com/doc/workbench/en/wb-vertical-toolbar.html 20220326.114024 
+
+https://dev.mysql.com/doc/workbench/en/wb-eer-diagram-editor.html 20220326.114042 
+
+https://dev.mysql.com/doc/workbench/en/wb-model-overview-privileges.html 20220326.114129 
+
+https://dev.mysql.com/doc/workbench/en/wb-view-overview-physical-schemas.html 20220326.114142 
+
+https://dev.mysql.com/doc/workbench/en/wb-view-overview-physical-schemas.html 20220326.114217 
+
+https://dev.mysql.com/doc/workbench/en/wb-eer-diagrams-section.html 20220326.114239 
+
+https://dev.mysql.com/doc/workbench/en/wb-eer-diagrams-section.html 20220326.114356 
+
+https://dev.mysql.com/doc/workbench/en/wb-toolbar.html 20220326.114408 
+
+https://dev.mysql.com/doc/workbench/en/wb-data-modeling-menus.html 20220326.114428 
+
+https://dev.mysql.com/doc/workbench/en/wb-data-modeling-menus.html 20220326.114435 
+
+https://dev.mysql.com/doc/workbench/en/wb-model-editor.html 20220326.114454 
+
+https://dev.mysql.com/doc/workbench/en/wb-design-modeling-interface.html 20220326.114506 
+
+https://dev.mysql.com/doc/workbench/en/wb-data-modeling.html 20220326.114519 
+
+https://dev.mysql.com/doc/workbench/en/wb-model-editor.html 20220326.114533 
+
+https://dev.mysql.com/doc/workbench/en/wb-design-modeling-interface.html 20220326.114550 
+
+https://dev.mysql.com/doc/workbench/en/wb-data-modeling.html 20220326.114620 
+
+https://dev.mysql.com/doc/workbench/en/wb-develop-object-management-inspector.html 20220326.114635 
+
+https://dev.mysql.com/doc/workbench/en/wb-develop-object-management-inspector.html 20220326.114937 
+
+https://dev.mysql.com/doc/workbench/en/wb-sql-editor-connection-information-panel.html 20220326.114951 
+
+https://dev.mysql.com/doc/workbench/en/wb-sql-editor-navigator.html 20220326.115003 
+
+https://dev.mysql.com/doc/workbench/en/wb-develop-object-management.html 20220326.115021 
+
+https://dev.mysql.com/doc/workbench/en/wb-generating-php.html 20220326.115038 
+
+https://dev.mysql.com/doc/workbench/en/wb-generating-sql.html 20220326.115052 
+
+https://dev.mysql.com/doc/workbench/en/wb-generating.html 20220326.115108 
+
+https://dev.mysql.com/doc/workbench/en/wb-table-editor-foreign-keys-tab.html 20220326.115143 
+
+https://dev.mysql.com/doc/workbench/en/wb-table-editor-foreign-keys-tab.html 20220326.115244 
+
+https://dev.mysql.com/doc/workbench/en/wb-table-editor.html 20220326.115430 
+
+https://dev.mysql.com/doc/workbench/en/wb-table-editor.html 20220326.115451 
+
+https://dev.mysql.com/doc/workbench/en/wb-develop-sql-editor-results.html 20220326.115528 
+
+https://dev.mysql.com/doc/workbench/en/wb-sql-editor-main-menu.html 20220326.115541 
+
+https://dev.mysql.com/doc/workbench/en/wb-sql-editor-toolbar.html 20220326.115555 
+
+https://dev.mysql.com/doc/workbench/en/wb-sql-editor-toolbar.html 20220326.115635 
+
+https://dev.mysql.com/doc/workbench/en/wb-sql-editor-query-panel.html 20220326.115649 
+
+https://dev.mysql.com/doc/workbench/en/wb-sql-editor.html 20220326.115706 
+
+https://dev.mysql.com/doc/workbench/en/wb-sql-editor.html 20220326.115728 
+
+https://dev.mysql.com/doc/workbench/en/wb-develop.html 20220326.115743 
+
+https://dev.mysql.com/doc/workbench/en/wb-preferences-ssh.html 20220326.115816 
+
+https://dev.mysql.com/doc/workbench/en/wb-preferences-modeling.html#wb-preferences-modeling-diagram 20220326.115937 
+
+https://dev.mysql.com/doc/workbench/en/wb-preferences.html 20220326.120012 
+
+https://dev.mysql.com/doc/workbench/en/wb-accessibility.html 20220326.120026 
+
+https://dev.mysql.com/doc/workbench/en/wb-configuring.html 20220326.120051 
+
+https://dev.mysql.com/doc/workbench/en/wb-mac.html 20220326.120108 
+
+https://dev.mysql.com/doc/workbench/en/wb-installing-linux.html 20220326.120218 
+
+https://dev.mysql.com/doc/workbench/en/wb-linux.html 20220326.120232 
+
+https://dev.mysql.com/doc/workbench/en/wb-installing.html 20220326.120246 
+
+https://dev.mysql.com/doc/workbench/en/wb-what-is-new-8.html 20220326.120300 
+
+https://dev.mysql.com/doc/workbench/en/wb-what-is-new-8.html 20220326.120359 
+
+https://dev.mysql.com/doc/workbench/en/wb-what-is-new.html 20220326.120413 
+
+https://dev.mysql.com/doc/workbench/en/wb-what-is-new.html 20220326.120425 
+
+https://dev.mysql.com/doc/workbench/en/wb-intro.html 20220326.120444 
+
+https://dev.mysql.com/doc/workbench/en/ 20220326.120458 
+
+https://dev.mysql.com/doc/workbench/en/ 20220326.120547 
+
+https://computingforgeeks.com/install-and-use-mysql-workbench-on-ubuntu/ 20220326.120605 
+
+https://computingforgeeks.com/install-and-use-mysql-workbench-on-ubuntu/ 20220326.120626 
+
+https://computingforgeeks.com/install-and-use-mysql-workbench-on-ubuntu/ 20220326.120647 
+
+https://computingforgeeks.com/install-and-use-mysql-workbench-on-ubuntu/ 20220326.120659 
+
+https://computingforgeeks.com/install-and-use-mysql-workbench-on-ubuntu/ 20220326.120721 
+
+https://dev.mysql.com/downloads/workbench/ 20220326.120755 
+
+https://dev.mysql.com/downloads/workbench/ 20220326.120810 
+
+https://dev.mysql.com/downloads/ 20220326.120827 
+
+https://pawelurbanek.com/uuid-order-rails 20220326.120858 
+
+https://github.com/apache/solr 20220326.120921 
+
+https://github.com/apache/solr 20220326.120940 
+
+https://github.com/apache/solr 20220326.121001 
+
+https://solr.apache.org/guide/8_11/solr-tutorial.html 20220326.121023 
+
+https://solr.apache.org/ 20220326.121039 
+
+https://solr.apache.org/ 20220326.121058 
+
+https://solr.apache.org/docs/8_11_1/changes/Changes.html#v8.11.0.optimizations 20220326.121127 
+
+https://solr.apache.org/docs/8_11_1/changes/Changes.html#v8.11.0.improvements 20220326.121143 
+
+https://solr.apache.org/docs/8_11_1/changes/Changes.html#v8.11.0.new_features 20220326.121204 
+
+https://solr.apache.org/docs/8_11_1/changes/Changes.html 20220326.121219 
+
+https://solr.apache.org/docs/8_11_1/changes/Changes.html 20220326.121224 
+
+https://solr.apache.org/downloads.html 20220326.121235 
+
+https://osxdaily.com/2022/03/25/no-admin-account-mac-fix-macos/ 20220326.121416 
+
+https://en.wikipedia.org/wiki/Apache_Lucene 20220326.121439 
+
+https://en.wikipedia.org/wiki/Apache_Lucene 20220326.121452 
+
+https://en.wikipedia.org/wiki/Apache_Lucene 20220326.121505 
+
+https://en.wikipedia.org/wiki/Apache_Lucene 20220326.121519 
+
+https://en.wikipedia.org/wiki/Apache_Lucene 20220326.121536 
+
+https://nypost.com/2022/03/18/intelligence-experts-refuse-to-apologize-for-smearing-hunter-biden-story/ 20220326.121624 
+
+https://arstechnica.com/information-technology/2022/03/sabotage-code-added-to-popular-npm-package-wiped-files-in-russia-and-belarus/ 20220326.121645 
+
+https://arstechnica.com/information-technology/2022/03/sabotage-code-added-to-popular-npm-package-wiped-files-in-russia-and-belarus/ 20220326.121702 
+
+https://arstechnica.com/information-technology/2022/03/sabotage-code-added-to-popular-npm-package-wiped-files-in-russia-and-belarus/ 20220326.121716 
+
+https://arstechnica.com/information-technology/2022/03/sabotage-code-added-to-popular-npm-package-wiped-files-in-russia-and-belarus/ 20220326.121734 
+
+https://www.neowin.net/news/windows-terminal-now-has-a-windows-11-only-package-v1121073-fixes-powertoys-bug-and-more/ 20220326.122109 
+
+https://www.svg.com/122612/video-games-never-play-around-kids/ 20220326.123212 
+
+https://loudounnow.com/2022/03/22/%EF%BF%BCpio-elected-new-gop-committee-chairman-eyes-new-direction-for-party/ 20220326.123821 
+
+https://medium.com/macoclock/what-will-get-apples-m2-first-3ef03b7ebdda 20220326.135250 
+
+https://www.latimes.com/california/story/2022-03-25/california-census-data 20220326.140721 
+
+https://www.insidenova.com/news/fairfax/proposal-would-turn-800-acres-at-dulles-into-solar-facility/article_a8586350-a92c-11ec-b17c-97add4369d80.html 20220326.140916 
+
+https://www.insidenova.com/news/fairfax/proposal-would-turn-800-acres-at-dulles-into-solar-facility/article_a8586350-a92c-11ec-b17c-97add4369d80.html 20220326.151737 
+
+https://9to5mac.com/2021/12/20/m2-m2-pro-chips-rumor/ 20220326.152046 
+
+https://9to5mac.com/2021/12/20/m2-m2-pro-chips-rumor/ 20220326.152107 
+
+https://9to5mac.com/2022/03/09/exclusive-updated-mac-mini-to-have-versions-with-m2-and-m2-pro-chip/ 20220326.152238 
+
+https://9to5mac.com/2022/03/09/exclusive-updated-mac-mini-to-have-versions-with-m2-and-m2-pro-chip/ 20220326.152446 
+
+https://www.cnn.com/2022/03/23/europe/ukraine-war-russian-soldiers-deaths-cmd-intl/index.html 20220326.154646 
+
+https://www.cnn.com/2022/03/23/europe/ukraine-war-russian-soldiers-deaths-cmd-intl/index.html 20220326.160101 
+
+https://www.cnn.com/2022/03/26/politics/biden-warsaw-saturday/index.html 20220326.160113 
+
+https://www.cnn.com/2022/03/26/politics/biden-warsaw-saturday/index.html 20220326.160134 
+
+https://www.amazon.com/Certified-Essri-Lightning-Charging-Air%EF%BC%88Blue%EF%BC%89/dp/B08GCFHLJ1 20220326.160651 
+
+https://www.amazon.com/Anker-Double-Braided-Lightning-Certified-Chargers/dp/B078NPDRHL 20220326.213100 
+
+https://www.amazon.com/Anker-Premium-Lightning-Certified-Chargers/dp/B07D9C8NP2 20220326.213156 
+
+https://www.amazon.com/Anker-2-Pack-Premium-Charging-Samsung/dp/B07DC5PPFV 20220326.213602 
+
+https://www.amazon.com/Anker-3-Pack-Premium-Charging-Samsung/dp/B07VZZ8LXC 20220326.213756 
+
+https://www.amazon.com/Anker-3-Pack-Premium-Charging-Samsung/dp/B07VZZ8LXC 20220326.213953 
+
+https://tourscanner.com/blog/best-museums-in-washington-dc/ 20220326.214626 
+
+https://tourscanner.com/blog/best-museums-in-washington-dc/ 20220326.214811 
+
+https://tourscanner.com/blog/best-museums-in-washington-dc/ 20220326.215841 
+
+https://www.vox.com/22996799/supreme-court-biden-navy-seal-vaccine-austin-covid 20220326.220202 
+
+https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811 20220326.221237 
+
+https://asyncq.com/how-to-read-text-file-with-bufferedreader-in-java 20220327.023909 
+
+https://www.notebookcheck.net/Gigabyte-BRIX-Extreme-the-most-powerful-multitasking-mini-PC-unveiled-with-12th-Gen-Intel-processors-whisper-quiet-operation.609981.0.html 20220327.031538 
+
+https://www.notebookcheck.net/Gigabyte-BRIX-Extreme-the-most-powerful-multitasking-mini-PC-unveiled-with-12th-Gen-Intel-processors-whisper-quiet-operation.609981.0.html 20220327.031655 
+
+https://www.foxnews.com/opinion/stellar-intelligence-community-cabal 20220327.033933 
+
+https://www.foxnews.com/opinion/stellar-intelligence-community-cabal 20220327.034758 
+
+https://www.zdnet.com/article/how-to-run-windows-and-macos-simultaneously-without-rebooting-or-sacrificing-speed/ 20220327.035712 
+
+https://sdkman.io/usage#flush 20220327.040617 
+
+https://tomee.apache.org/comparison.html 20220327.043404 
+
+https://tomee.apache.org/comparison.html 20220327.043530 
+
+https://www.sqlrevisited.com/2022/03/mysql-vs-nosql-non-relational-db-pros.html 20220327.043940 
+
+https://www.sqlrevisited.com/2022/03/mysql-vs-nosql-non-relational-db-pros.html 20220327.044136 
+
+https://softwaregarden.dev/en/posts/new-java/records/vs-lombok-yet-again-with-builder-pattern/ 20220327.044600 
+
+https://javarevisited.blogspot.com/2022/03/how-to-send-json-via-post-request-using.html#axzz7OXbu4lp3 20220327.044952 
+
+https://github.com/eugenp?tab=repositories 20220327.045146 
+
+https://github.com/eugenp?tab=repositories 20220327.064131 
+
+https://www.youtube.com/watch?v=fCR1LcECWBk 20220327.065837 
+
+https://www.tomshardware.com/how-to/zip-files-in-linux 20220327.070722 
+
+https://www.tomshardware.com/reviews/pimoroni-trilobot 20220327.071052 
+
+https://www.visitloudoun.org/blog/post/best-hikes-and-trails-in-loudoun/ 20220327.071649 
+
+https://www.visitloudoun.org/blog/post/best-hikes-and-trails-in-loudoun/ 20220327.071838 
+
+https://www.theburn.com/2022/03/22/subway-has-closed-multiple-stores-around-loudoun/ 20220327.072014 
+
+https://www.theburn.com/2022/03/22/subway-has-closed-multiple-stores-around-loudoun/ 20220327.072331 
+
+https://nypost.com/2022/03/25/media-works-overtime-to-clean-up-joe-bidens-word-salads/ 20220327.073848 
+
+https://nypost.com/2022/03/25/media-works-overtime-to-clean-up-joe-bidens-word-salads/ 20220327.074158 
+
+https://thehill.com/policy/national-security/599823-ukrainian-invasion-takes-bad-turn-for-russia 20220327.080336 
+
+https://www.foxnews.com/politics/warnock-fundraiser-activist-gop-taliban 20220327.081410 
+
+https://www.nationalreview.com/photos/cartoons-of-the-day-march-25-2022/ 20220327.082025 
+
+https://medium.com/@fareenaimran/3-important-commands-of-maven-99b725b43521 20220327.083726 
+
+https://medium.com/@damianmyerscough/terraform-safely-upgrading-rds-instances-51b31cf2a17 20220327.084106 
+
+https://support.logi.com/hc/en-us/articles/360025297913-Unifying-Software- 20220327.120637 
+
+https://en.wikipedia.org/wiki/Logitech_Unifying_receiver 20220327.120851 
+
+https://en.wikipedia.org/wiki/Logitech_Unifying_receiver 20220327.121502 
+
+https://en.wikipedia.org/wiki/Logitech_Unifying_receiver 20220327.121612 
+
+https://m.youtube.com/watch?v=VlXhq8184Vw 20220327.121941 
+
+http://manpages.ubuntu.com/manpages/bionic/man1/solaar-cli.1.html 20220327.123113 
+
+http://manpages.ubuntu.com/manpages/focal/man1/solaar-cli.1.html 20220327.123128 
+
+https://www.omgubuntu.co.uk/logitech-unifying-receiver-linux-solaar 20220327.123300 
+
+https://www.omgubuntu.co.uk/logitech-unifying-receiver-linux-solaar 20220327.123635 
+
+https://pwr-solaar.github.io/Solaar/devices.html 20220327.123726 
+
+https://pwr-solaar.github.io/Solaar/devices.html 20220327.123920 
+
+https://www.omgubuntu.co.uk/logitech-unifying-receiver-linux-solaar 20220327.124018 
+
+https://github.com/pwr-Solaar/Solaar 20220327.124118 
+
+https://pwr-solaar.github.io/Solaar/usage.html 20220327.124154 
+
+https://pwr-solaar.github.io/Solaar/usage.html 20220327.124604 
+
+https://pwr-solaar.github.io/Solaar/capabilities.html 20220327.124621 
+
+https://marketplace.eclipse.org/category/free-tagging/markdown 20220327.125055 
+
+https://marketplace.eclipse.org/content/mylyn-wikitext 20220327.125212 
+
+https://marketplace.eclipse.org/content/mylyn-wikitext 20220327.125316 
+
+https://www.schemacrawler.com/changes-report.html 20220327.173716 
+
+https://www.schemacrawler.com/changes-report.html 20220327.173725 
+
+https://www.baeldung.com/cs/hash-table-vs-trie-prefix-tree 20220327.181812 
+
+https://www.connection.com/product/dell-wd19s-docking-station-with-130w-adapter-and-90w-power-delivery/dell-wd19s130w/41218120 20220327.203146 
+
+https://www.thurrott.com/apple/264130/report-new-m2-macbooks-and-mac-mini-models-are-coming-later-this-year 20220327.203344 
+
+https://www.thurrott.com/apple/264130/report-new-m2-macbooks-and-mac-mini-models-are-coming-later-this-year 20220327.204830 
+
+https://medium.com/codex/one-ide-is-not-enough-f66fb443186 20220327.204944 
+
+https://medium.com/data-science-nerd/how-to-start-practicing-sql-at-home-for-free-63a0b410af3b 20220327.205047 
+
+https://medium.com/into-the-ai/raspberry-pi-a-web-server-with-ci-cd-pipeline-fd077b3be63a 20220327.205148 
+
+https://medium.com/into-the-ai/raspberry-pi-a-web-server-with-ci-cd-pipeline-fd077b3be63a 20220327.205246 
+
+https://magicfab.ca/2013/07/pairing-the-logitech-performance-mx-and-others-to-the-unifying-receiver-in-gnulinux/ 20220327.205328 
+
+https://magicfab.ca/2013/07/pairing-the-logitech-performance-mx-and-others-to-the-unifying-receiver-in-gnulinux/ 20220327.205458 
+
+https://www.martinrowan.co.uk/2020/03/219-design-raspberry-pi-4-3d-printed-case/ 20220327.205744 
+
+https://www.howtogeek.com/793005/how-to-safely-dispose-of-an-old-phone/ 20220327.205816 
+
+https://wtop.com/dc/2022/03/jet-over-to-dcs-air-and-space-museum-before-it-closes-for-renovations/ 20220327.210142 
+
+https://www.tomshardware.com/reviews/cyntech-raspberry-pi-4-case-and-heatsink-review 20220327.210402 
+
+https://www.tomshardware.com/reviews/cyntech-raspberry-pi-4-case-and-heatsink-review 20220327.210521 
+
+https://lifehacker.com/how-to-make-cheap-bookshelves-look-like-expensive-built-1848679756 20220327.210647 
+
+https://lifehacker.com/how-to-make-cheap-bookshelves-look-like-expensive-built-1848679756 20220328.035232 
+
+https://kerneltips.com/5-best-mouse-for-linux-top-wireless-picks 20220328.040126 
+
+https://kerneltips.com/5-best-mouse-for-linux-top-wireless-picks 20220328.040800 
+
+https://kerneltips.com/best-premium-keyboards-for-linux-on-amazon 20220328.041008 
+
+https://kerneltips.com/best-premium-keyboards-for-linux-on-amazon 20220328.041028 
+
+https://www.cnet.com/tech/computing/best-wireless-mouse-deals/ 20220328.041944 
+
+https://appleinsider.com/articles/22/03/23/sophisticated-gimmick-malware-found-custom-made-for-macos 20220328.042240 
+
+https://www.cnn.com/2022/03/27/politics/senate-race-rankings-march-elections/index.html 20220328.044408 
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent 20220328.044541 
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent 20220328.044552 
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh 20220328.044821 
+
+https://support.microsoft.com/en-us/office/view-or-change-the-properties-for-an-office-file-21d604c2-481e-4379-8e54-1dd4622c6b75 20220328.233346 
+
+https://support.microsoft.com/en-us/office/view-or-change-the-properties-for-an-office-file-21d604c2-481e-4379-8e54-1dd4622c6b75 20220328.233730 
+
+https://www.goodreads.com/quotes/21898-then-out-spake-brave-horatius-the-captain-of-the-gate 20220328.235029 
+
+http://www.execupundit.com/2006/04/come-with-me-into-macedonia.html 20220328.235352 
+
+https://www.goodreads.com/quotes/21898-then-out-spake-brave-horatius-the-captain-of-the-gate 20220328.235720 
+
+https://en.wikipedia.org/wiki/Gettysburg_Address 20220328.235733 
+
+https://constitution.congress.gov/constitution/amendment-1/#:~:text=Congress%20shall%20make%20no%20law,for%20a%20redress%20of%20grievances. 20220329.000219 
+
+https://constitution.congress.gov/constitution/amendment-1/#:~:text=Congress%20shall%20make%20no%20law,for%20a%20redress%20of%20grievances. 20220329.000240 
+
+https://betterprogramming.pub/use-ssh-config-file-to-boost-your-productivity-b3867ce8cbfe 20220329.001640 
+
+http://www.execupundit.com/2006/04/come-with-me-into-macedonia.html 20220329.042409 
+
+https://rubygems.org/gems/text-extractor/versions/0.1.0 20220329.203720 
+
+https://rubygems.org/gems/text-extractor/versions/0.1.0 20220329.203801 
+
+https://www.rubydoc.info/gems/text-extractor 20220329.203829 
+
+https://www.rubydoc.info/gems/text-extractor 20220329.204637 
+
+https://github.com/planio-gmbh/plaintext 20220329.204652 
+
+https://github.com/planio-gmbh/plaintext 20220329.205438 
+
+https://github.com/planio-gmbh/plaintext 20220330.054135 
+
+https://www.digitalocean.com/community/tutorials/how-to-use-irb-to-explore-ruby 20220330.055311 
+
+http://wsmoak.net/2016/07/10/ruby-gem-dev-irb.html 20220330.055551 
+
+https://www.justinweiss.com/articles/how-do-gems-work/ 20220330.060231 
+
+https://www.justinweiss.com/articles/how-do-gems-work/ 20220330.060927 
+
+https://stackoverflow.com/questions/3362143/list-methods-only-in-a-module 20220330.061328 
+
+https://github.com/planio-gmbh/plaintext 20220330.064326 
+
+https://www.zdnet.com/article/introducing-the-mac-mini-pro-again/ 20220330.064442 
+
+https://www.pickr.com.au/?p=51348 20220330.064523 
+
+https://mixstersite.wordpress.com/2021/01/01/mx-master-3-the-iphone-of-productivity-mouses/ 20220330.064613 
+
+https://mixstersite.wordpress.com/2021/01/01/mx-master-3-the-iphone-of-productivity-mouses/ 20220330.064713 
+
+https://www.zdnet.com/article/log4shell-exploited-to-infect-vmware-horizon-servers-with-backdoors-crypto-miners/ 20220330.064748 
+
+https://www.tomshardware.com/news/raspberry-pi-retro-tv-gaming-console 20220330.064912 
+
+https://github.com/abrom/henkei 20220330.070227 
+
+https://github.com/abrom/henkei 20220330.070522 
+
+https://github.com/abrom/henkei 20220330.070823 
+
+https://github.com/abrom/henkei 20220330.071006 
+
+https://the-gadgeteer.com/2022/03/27/this-tiny-dc-voltmeter-fits-in-a-leatherman-bit-holder-or-on-keychain/ 20220330.072928 
+
+https://wtop.com/tracking-metro-24-7/2022/03/northern-va-lawmakers-demand-update-on-silver-line-delay/ 20220330.073221 
+
+https://www.lifeisgood.com/sale/men/tees-and-tops/mens-dont-get-stuck-long-sleeve-crusher-tee-94493.html 20220330.073454 
+
+https://www.macrumors.com/2022/03/29/apple-stores-iphones-reported-missing-policy/ 20220330.073723 
+
+https://github.com/yomurb/yomu 20220330.074432 
+
+https://github.com/yomurb/yomu 20220330.074829 
+
+https://www.rubydoc.info/gems/yomu/Yomu 20220330.075121 
+
+https://www.rubydoc.info/gems/yomu/Yomu 20220330.075502 
+
+https://rubygems.org/gems/yomu/versions/0.2.4 20220330.075515 
+
+https://ruby.libhunt.com/yomu-alternatives 20220330.075745 
+
+https://stackoverflow.com/questions/35749123/reading-multiple-files-with-the-ruby-gem-yomu 20220330.075830 
+
+https://stackoverflow.com/questions/35749123/reading-multiple-files-with-the-ruby-gem-yomu 20220330.075919 
+
+https://curatedruby.com/p/yomu-is-yomurb-yomu/index.html 20220330.075944 
+
+https://github.com/carrierwaveuploader/carrierwave 20220330.080611 
+
+https://github.com/carrierwaveuploader/carrierwave 20220330.080641 
+
+https://github.com/carrierwaveuploader/carrierwave 20220330.080808 
+
+https://codecabulary.launchacademy.com/learn-rails/model-associations#:~:text=The%20difference%20between%20belongs_to%20and,has%20its%20foreign%20key%20referenced. 20220330.082601 
+
+https://andycroll.com/ruby/be-careful-assigning-to-has-one-relations/ 20220330.082926 
+
+https://www.linuxuprising.com/2020/11/configure-logitech-steelseries-and.html 20220330.083036 
+
+https://www.linuxuprising.com/2020/11/configure-logitech-steelseries-and.html 20220330.083249 
+
+https://www.linuxuprising.com/2020/11/configure-logitech-steelseries-and.html 20220330.083506 
+
+https://www.geeksforgeeks.org/top-5-features-of-java-17-that-you-must-know/ 20220330.083548 
+
+https://wtop.com/loudoun-county/2022/03/wod-trail-detour-in-ashburn-nears-for-power-line-replacement/ 20220330.083745 
+
+https://wtop.com/loudoun-county/2022/03/wod-trail-detour-in-ashburn-nears-for-power-line-replacement/ 20220330.083937 
+
+https://medium.com/codex/3-steps-to-master-java-lambda-eb2a96c9f1cb 20220331.044840 
+
+https://devblogs.microsoft.com/python/python-in-visual-studio-code-april-2022-release/ 20220331.044913 
+
+https://devblogs.microsoft.com/oldnewthing/20220329-00/?p=106404 20220331.045027 
+
+https://devblogs.microsoft.com/oldnewthing/20220329-00/?p=106404 20220331.045207 
+
+https://m.youtube.com/watch?v=TYF527DqnwY 20220331.045534 
+
+https://m.youtube.com/watch?v=TYF527DqnwY 20220331.050018 
+
+https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/ 20220331.050327 
+
+https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/ 20220331.050340 
+
+https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/ 20220331.050748 
+
+https://lifehacker.com/dont-buy-an-apple-monitor-for-your-mac-buy-this-instea-1848719495 20220331.051107 
+
+https://andycroll.com/ruby/be-careful-assigning-to-has-one-relations/ 20220331.071119 
+
+https://github.com/carrierwaveuploader/carrierwave 20220331.071131 
+
+https://curatedruby.com/p/yomu-is-yomurb-yomu/index.html 20220331.071144 
+
+https://github.com/abrom/henkei 20220331.071213 
+
+https://stackoverflow.com/questions/3362143/list-methods-only-in-a-module 20220331.071245 
+
+https://www.justinweiss.com/articles/how-do-gems-work/ 20220331.071301 
+
+https://www.digitalocean.com/community/tutorials/how-to-use-irb-to-explore-ruby 20220331.071318 
+
+https://www.digitalocean.com/community/tutorials/how-to-use-irb-to-explore-ruby 20220331.071357 
+
+https://github.com/planio-gmbh/plaintext 20220331.071415 
+
+https://www.rubydoc.info/gems/text-extractor 20220331.071441 
+
+https://constitution.congress.gov/constitution/amendment-15/ 20220331.071457 
+
+https://www.goodreads.com/quotes/21898-then-out-spake-brave-horatius-the-captain-of-the-gate 20220331.071518 
+
+https://en.wikipedia.org/wiki/Gettysburg_Address 20220331.071530 
+
+https://en.wikipedia.org/wiki/Gettysburg_Address 20220331.071539 
+
+https://support.microsoft.com/en-us/office/view-or-change-the-properties-for-an-office-file-21d604c2-481e-4379-8e54-1dd4622c6b75 20220331.071602 
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases 20220331.071619 
+
+https://www.cnn.com/2022/03/27/politics/senate-race-rankings-march-elections/index.html 20220331.071634 
+
+https://www.cnet.com/tech/computing/best-wireless-mouse-deals/ 20220331.071653 
+
+https://www.thurrott.com/apple/264130/report-new-m2-macbooks-and-mac-mini-models-are-coming-later-this-year 20220331.071710 
+
+https://loudounnow.com/2022/03/22/%EF%BF%BCpio-elected-new-gop-committee-chairman-eyes-new-direction-for-party/ 20220331.071727 
+
+https://www.insidenova.com/headlines/updated-one-dead-11-displaced-in-two-alarm-ashburn-fire/article_4311bfc2-af68-11ec-ab3b-1ffa359ecee1.html 20220331.072052 
+
+https://www.insidenova.com/headlines/updated-one-dead-11-displaced-in-two-alarm-ashburn-fire/article_4311bfc2-af68-11ec-ab3b-1ffa359ecee1.html 20220331.072332 
+
+https://www.zdnet.com/article/using-russian-tech-its-time-to-look-at-the-risks-again-says-cybersecurity-chief/ 20220331.072517 
+
+https://www.zdnet.com/article/using-russian-tech-its-time-to-look-at-the-risks-again-says-cybersecurity-chief/ 20220331.072803 
+
+https://www.linkedin.com/pulse/stop-using-russian-tech-products-dmitry-pleshakov 20220331.073548 
+
+https://discuss.kotlinlang.org/t/could-kotlin-be-affected-by-international-sanctions-against-russia/24275 20220331.074524 
+
+https://www.forbes.com/sites/thomasbrewster/2021/01/07/meet-the-super-rich-czech-tech-company---and-its-russian-ceo--denying-links-to-the-huge-solarwinds-hack/ 20220331.074616 
+
+https://www.forbes.com/sites/thomasbrewster/2021/01/07/meet-the-super-rich-czech-tech-company---and-its-russian-ceo--denying-links-to-the-huge-solarwinds-hack/ 20220331.074938 
+
+https://www.reuters.com/article/us-global-cyber-jetbrains-idUSKBN29B2RR 20220331.075232 
+
+https://www.reuters.com/article/us-global-cyber-jetbrains-idUSKBN29B2RR 20220331.075306 
+
+https://www.cnn.com/2022/03/30/business/russia-sanctions-oil/index.html 20220331.075516 
+
+https://www.cnn.com/2022/03/30/business/russia-sanctions-oil/index.html 20220331.075800 
+
+https://www.foxnews.com/media/view-host-predicts-bloodbath-democrats-midterm-elections 20220331.075956 
+
+https://www.i-programmer.info/news/80-java/15317-wheres-java-going-in-2022.html 20220331.081104 
+
+https://www.i-programmer.info/news/80-java/15317-wheres-java-going-in-2022.html 20220331.081220 
+
+https://betterprogramming.pub/code-like-a-pro-tooling-to-supercharge-vs-code-for-ruby-bf2ae61df5e3 20220331.081450 
+
+https://betterprogramming.pub/code-like-a-pro-tooling-to-supercharge-vs-code-for-ruby-bf2ae61df5e3 20220331.081811 
+
+https://betterprogramming.pub/code-like-a-pro-tooling-to-supercharge-vs-code-for-ruby-bf2ae61df5e3 20220331.081904 
+
+https://www.rootstrap.com/blog/the-8-best-visual-studio-code-extensions-for-programming-ruby/ 20220331.081934 
+
+https://www.rootstrap.com/blog/the-8-best-visual-studio-code-extensions-for-programming-ruby/ 20220331.082220 
+
+https://dev.to/thomasvanholder/10-vs-code-extensions-for-ruby-on-rails-developers-89a 20220331.082246 
+
+https://dev.to/thomasvanholder/10-vs-code-extensions-for-ruby-on-rails-developers-89a 20220331.082700 
+
+https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby 20220331.082720 
+
+https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby 20220331.082944 
+
+https://northsail.io/articles/lean-ruby-ide-switching-from-rubymine-to-vscode 20220331.083006 
+
+https://northsail.io/articles/lean-ruby-ide-switching-from-rubymine-to-vscode 20220331.083231 
+
+https://github.com/lsegal/yard 20220331.093552 
+
+https://github.com/lsegal/yard 20220331.094049 
+
+https://github.com/lsegal/yard 20220331.094252 
+
+https://solargraph.org/guides/yard 20220331.094601 
+
+https://yardoc.org/ 20220331.094633 
+
+https://yardoc.org/ 20220331.094642 
+
+https://yardoc.org/ 20220331.094737 
+
+https://northsail.io/articles/lean-ruby-ide-switching-from-rubymine-to-vscode 20220331.094751 
+
+https://medium.com/weekly-webtips/vs-code-extensions-you-need-if-youre-a-ruby-developer-add2ce8683f6 20220331.095136 
+
+https://medium.com/weekly-webtips/vs-code-extensions-you-need-if-youre-a-ruby-developer-add2ce8683f6 20220331.095751 
+
+https://thehill.com/homenews/media/600372-cnn-realistic-chance-hunter-biden-could-be-indicted/ 20220331.125115 
+
+https://thehill.com/homenews/media/600372-cnn-realistic-chance-hunter-biden-could-be-indicted/ 20220331.125137 
+
+https://www.servethehome.com/welcome-intel-arc-gpus-to-the-market-nuc/ 20220331.125845 
+
+https://news.yahoo.com/post-afghanistan-us-air-force-193732750.html 20220331.130224 
+
+https://news.yahoo.com/post-afghanistan-us-air-force-193732750.html 20220331.130258 
+
+https://arstechnica.com/gadgets/2022/03/dell-latitude-precision-pcs-claim-30-lower-latency-with-dual-network-connection/ 20220331.131035 
+
+https://www.digitaltrends.com/computing/dell-ultrasharp-30-is-a-more-modular-apple-studio-display/ 20220331.132423 
+
+https://www.digitaltrends.com/computing/dell-ultrasharp-30-is-a-more-modular-apple-studio-display/ 20220331.132611 
+
+https://thehackernews.com/2022/03/security-patch-releases-for-critical.html 20220331.132902 
+
+https://thehill.com/homenews/campaign/600277-durant-holds-double-digit-lead-in-alabama-senate-race-poll/ 20220331.133359 
+
+https://www.cined.com/owc-thunderbolt-4-usb-c-cables-released-one-cable-for-all-standards/ 20220331.133453 
+
+https://www.cined.com/owc-thunderbolt-4-usb-c-cables-released-one-cable-for-all-standards/ 20220331.133502 
+
+https://www.cined.com/owc-thunderbolt-4-usb-c-cables-released-one-cable-for-all-standards/ 20220331.134008 
+
+https://www.hardwarezone.com.sg/tech-news-dell-xps13-plus-ultraportable-notebook-ces-2022 20220331.134430 
+
+https://www.hardwarezone.com.sg/feature-review-lego-mclaren-formula-1-race-car-42141 20220331.134635 
+
+https://makinhs.medium.com/5-reasons-to-become-a-contractor-over-employee-in-software-engineering-1f3a325059d 20220331.135716 
+
+https://www.loudountimes.com/news/one-dead-two-injured-after-two-alarm-house-fire-in-ashburn/article_f08e55f0-af83-11ec-80ce-238690577259.html 20220331.140723 
+
+https://www.loudountimes.com/news/one-dead-two-injured-after-two-alarm-house-fire-in-ashburn/article_f08e55f0-af83-11ec-80ce-238690577259.html 20220331.141147 
+
+https://arstechnica.com/gadgets/2022/03/dells-new-dock-wirelessly-charges-your-phone-while-supporting-two-4k-monitors/ 20220331.143522 
+
+https://www.dell.com/en-us/shop/dell-thunderbolt-dock-wd22tb4/apd/210-bdqh/pc-accessories 20220331.143600 
+
+https://www.delltechnologies.com/asset/en-us/products/electronics-and-accessories/technical-support/dell_docking_compatibility_guide.pdf 20220331.143856 
+
+https://www.dell.com/en-us/shop/dell-thunderbolt-dock-wd22tb4/apd/210-bdqh/pc-accessories 20220331.144005 
+
+https://arstechnica.com/gadgets/2022/03/dells-new-dock-wirelessly-charges-your-phone-while-supporting-two-4k-monitors/ 20220331.144019 
+
+https://arstechnica.com/gadgets/2022/03/dells-new-dock-wirelessly-charges-your-phone-while-supporting-two-4k-monitors/ 20220331.144033 
+
+https://www.howtogeek.com/786392/the-fastest-way-to-put-your-pc-to-sleep/ 20220331.144355 
+
+https://www.howtogeek.com/786392/the-fastest-way-to-put-your-pc-to-sleep/ 20220331.144503 
+
+https://www.howtogeek.com/783969/what-does-sleep-mean-in-windows/ 20220331.144951 
+
+https://www.howtogeek.com/124715/should-i-leave-my-laptop-plugged-in-all-the-time/ 20220331.145158 
+
+https://www.raspberrypi.com/news/kimberlina-droid-the-magpi-116/ 20220331.145522 
+
+https://magpi.raspberrypi.com/issues/116 20220331.145541 
+
+https://magpi.raspberrypi.com/issues/116/pdf 20220331.145602 
+
+https://github.com/madhusudhankonda/elasticsearch-in-action/wiki/Ch-2:-Getting-Started 20220331.150553 
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html 20220331.150653 
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html 20220331.150730 
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html 20220331.151313 
+
+https://www.elastic.co/guide/en/kibana/8.1/get-started.html 20220331.151559 
+
+https://www.elastic.co/guide/en/kibana/8.1/setup.html 20220331.151758 
+
+https://www.elastic.co/guide/en/kibana/8.1/install.html 20220331.151908 
+
+https://www.elastic.co/guide/en/kibana/8.1/deb.html 20220331.152847 
+
+https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-elastic-stack.html 20220331.153837 
+
+https://www.elastic.co/support/matrix#matrix_jvm 20220331.153915 
+
+https://www.elastic.co/support/matrix#matrix_jvm 20220331.154423 
+
+https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-elastic-stack.html 20220331.155123 
+
+https://www.elastic.co/guide/en/kibana/8.1/managing-licenses.html 20220331.155443 
+
+https://www.elastic.co/guide/en/kibana/8.1/api.html 20220331.160634 
+
+https://github.com/elastic/elasticsearch/issues/68107 20220331.221914 
+
+https://www.elastic.co/guide/en/elasticsearch/reference/7.6/zip-windows.html 20220331.222022 
+
+https://www.elastic.co/guide/en/elasticsearch/reference/7.6/zip-windows.html 20220331.222109 
+
+https://www.elastic.co/guide/en/elasticsearch/reference/7.6/zip-windows.html 20220331.222829 
+
+https://stackoverflow.com/questions/66054983/system-getpropertyjava-io-tmpdir-not-returning-correct-location 20220331.223347 
+
+https://www.cultofmac.com/771090/is-it-ok-to-use-a-mac-mini-as-a-stand-for-your-display-setups/ 20220331.223705 
+
+https://www.cultofmac.com/771090/is-it-ok-to-use-a-mac-mini-as-a-stand-for-your-display-setups/ 20220331.224027 
+
+https://www.racksolutions.com/mac-mini-rack-mount.html 20220331.224109 
+
+https://www.notebookcheck.net/Dell-debuts-docks-designed-to-decrease-disconnections-and-declutter-your-desktop.610920.0.html 20220331.224259 
+
+https://www.macrumors.com/review/ugreen-multiport-gan-100w-charger-compact/ 20220331.224658 
+
+https://grails.org/blog/2022-03-31-grails-spring-rce.html 20220401.045121 
+
+https://grails.org/blog/2022-03-31-grails-spring-rce.html 20220401.045328 
+
+https://kenkousen.substack.com/p/tales-from-the-jar-side-java-18-the?utm_source=twitter&s=r 20220401.045410 
+
+https://dzone.com/articles/records-vs-lombok 20220401.053106 
+
+https://arstechnica.com/gadgets/2022/03/explaining-ips-black-the-display-tech-in-dells-new-ultrasharp-4k-monitors/ 20220401.053209 
+
+https://www.19fortyfive.com/2022/03/meet-the-x-44-manta-the-air-forces-plan-for-an-f-22-raptor-on-steroids/ 20220401.053347 
+
+https://www.19fortyfive.com/2022/03/why-russias-feared-t-90-tank-keeps-getting-killed-in-ukraine/ 20220401.053438 
+
+https://www.19fortyfive.com/2022/03/we-think-we-know-why-russias-attack-helicopters-keep-dying-in-ukraine/ 20220401.055010 
+
+https://www.windowscentral.com/microsoft-powertoys-update-lets-you-preview-more-images-file-explorer 20220401.060504 
+
+https://loudounnow.com/2022/04/01/study-lays-out-costs-risks-of-loudoun-police-department-transition/ 20220401.205152 
+
+https://www.infoworld.com/article/3655988/visual-studio-code-165-shines-on-javascript-heap-profiles-css-formatting.html 20220401.205245 
+
+https://www.infoworld.com/article/3655988/visual-studio-code-165-shines-on-javascript-heap-profiles-css-formatting.html 20220401.205641 
+
+https://nypost.com/2022/03/31/biden-stuck-picking-up-after-his-putin-dud/ 20220402.004017 
+
+https://nypost.com/2022/03/31/biden-stuck-picking-up-after-his-putin-dud/ 20220402.005039 
+
+https://www.gutenberg.org/cache/epub/1524/pg1524.txt 20220402.005103 
+
+https://thenewstack.io/python-for-beginners-how-to-build-a-gui-application/ 20220402.005152 
+
+https://thenewstack.io/python-for-beginners-how-to-build-a-gui-application/ 20220402.005317 
+
+https://www.cnn.com/2022/04/01/politics/western-spy-agencies-intelligence-putin-ukraine-war/index.html 20220402.011815 
+
+https://wtop.com/local/2022/03/local-lawmakers-expect-feds-to-move-fast-on-new-fbi-hq/ 20220402.012727 
+
+https://www.raspberrypi.org/blog/making-the-most-of-hello-world-18-five-years/ 20220402.063230 
+
+https://www.raspberrypi.org/blog/making-the-most-of-hello-world-18-five-years/ 20220402.063257 
+
+https://m.youtube.com/watch?v=QAaryF-Ufi0 20220402.063358 
+
+https://www.windowscentral.com/dell-latitude-9430 20220402.063754 
+
+https://www.windowscentral.com/dell-latitude-9430 20220402.064053 
+
+https://www.windowscentral.com/best-dell-laptop 20220402.064201 
+
+https://www.nps.gov/nama/linc01.htm 20220402.065558 
+
+https://www.theverge.com/23005435/magic-mouse-apple-logitech-powerplay 20220402.070526 
+
+https://www.zdnet.com/article/using-russian-tech-its-time-to-look-at-the-risks-again-says-cybersecurity-chief/ 20220402.192903 
+
+https://www.howtogeek.com/795140/how-to-disable-lets-finish-setting-up-your-device-on-windows/ 20220402.193020 
+
+https://www.howtogeek.com/795140/how-to-disable-lets-finish-setting-up-your-device-on-windows/ 20220402.193233 
+
+https://www.makeuseof.com/windows-11-set-up-without-internet-connection/ 20220402.193557 
+
+https://www.makeuseof.com/windows-11-set-up-without-internet-connection/ 20220402.193830 
+
+https://www.makeuseof.com/windows-11-keyboard-shortcuts/ 20220402.194059 
+
+https://www.makeuseof.com/windows-11-keyboard-shortcuts/ 20220402.195023 
+
+https://www.techradar.com/news/upcoming-windows-11-pro-update-will-force-you-to-have-an-internet-connection 20220402.195535 
+
+https://www.techradar.com/news/how-to-download-windows-11 20220402.200144 
+
+https://www.techradar.com/news/how-to-download-windows-11 20220402.205854 
+
+https://www.techradar.com/news/how-to-download-windows-11 20220402.205917 
+
+https://www.pcmag.com/news/installing-windows-11-pro-to-require-internet-connection-microsoft-account 20220402.210021 
+
+https://www.pcmag.com/news/installing-windows-11-pro-to-require-internet-connection-microsoft-account 20220402.210157 
+
+https://www.pcmag.com/news/installing-windows-11-pro-to-require-internet-connection-microsoft-account 20220402.210213 
+
+https://www.macrumors.com/2022/04/01/11-inch-macbook-air-obsolete/ 20220402.211931 
+
+https://www.dailymail.co.uk/news/article-10678999/Bill-Maher-says-Jada-Pinkett-Smith-lucky-alopecia-biggest-medical-complaint.html 20220402.212302 
+
+https://www.msnbc.com/opinion/msnbc-opinion/america-s-intelligence-community-has-pro-jan-6-bias-lurking-n1293694 20220402.214127 
+
+https://www.cnn.com/2022/04/02/world/putin-invasion-mistakes-hitler-blake-cec/index.html 20220402.220831 
+
+https://www.zdnet.com/article/windows-11-pro-may-require-msa-sign-in-internet-connectivity-just-like-the-home-version/ 20220402.223604 
+
+https://www.zdnet.com/article/windows-11-security-guide/ 20220402.224103 
+
+https://windowsreport.com/windows-11-setup-without-internet/ 20220402.224235 
+
+https://windowsreport.com/windows-11-setup-without-internet/ 20220402.224323 
+
+https://www.retrorgb.com/rpi4-raspberry-pi-software-for-2022.html 20220402.224936 
+
+https://windowsreport.com/windows-11-setup-without-internet/ 20220403.053204 
+
+https://geekermag.com/how-to-install-windows-11-pro-home-without-internet-connection/ 20220403.053229 
+
+https://geekermag.com/how-to-install-windows-11-pro-home-without-internet-connection/ 20220403.053643 
+
+https://www.neowin.net/news/here039s-how-you-can-setup-your-windows-11-device-without-an-internet-connection/ 20220403.053724 
+
+https://www.thewindowsclub.com/how-to-install-windows-11-home-without-microsoft-account 20220403.054624 
+
+https://www.thewindowsclub.com/how-to-install-windows-11-home-without-microsoft-account 20220403.054815 
+
+https://www.zdnet.com/article/engineers-just-love-windows-11-says-microsoft/ 20220403.055456 
+
+https://www.zdnet.com/article/engineers-just-love-windows-11-says-microsoft/ 20220403.055917 
+
+https://bigtechquestion.com/2021/12/04/software/windows/how-can-i-setup-windows-11-to-use-a-local-account-3-ways-to-bypass-a-microsoft-login/ 20220403.061356 
+
+https://bigtechquestion.com/2021/12/04/software/windows/how-can-i-setup-windows-11-to-use-a-local-account-3-ways-to-bypass-a-microsoft-login/ 20220403.061441 
+
+https://www.lifewire.com/local-vs-microsoft-accounts-in-windows-3507003 20220403.062520 
+
+https://www.xda-developers.com/windows-11-microsoft-local-account/ 20220403.063254 
+
+https://www.zdnet.com/article/windows-10-which-user-account-type-should-you-choose/ 20220403.063354 
+
+https://www.zdnet.com/article/windows-10-which-user-account-type-should-you-choose/ 20220403.063641 
+
+https://www.zdnet.com/article/bitlocker-guide-how-to-use-this-windows-encryption-tool-to-protect-your-data/ 20220403.064958 
+
+https://www.digitalcitizen.life/install-use-windows-11-with-local-account/ 20220403.065144 
+
+https://www.digitalcitizen.life/install-use-windows-11-with-local-account/ 20220403.065216 
+
+https://www.digitalcitizen.life/install-use-windows-11-with-local-account/ 20220403.065639 
+
+https://www.digitalcitizen.life/install-use-windows-11-with-local-account/ 20220403.065720 
+
+https://m.youtube.com/watch?v=gFN08Vs_oU4 20220403.065832 
+
+https://m.youtube.com/watch?v=gFN08Vs_oU4 20220403.065942 
+
+https://www.computerworld.com/article/3650755/no-microsoft-dont-require-an-account-to-set-up-windows-11.html 20220403.070315 
+
+https://www.computerworld.com/article/3650755/no-microsoft-dont-require-an-account-to-set-up-windows-11.html 20220403.071052 
+
+https://www.computerworld.com/article/3650755/no-microsoft-dont-require-an-account-to-set-up-windows-11.html 20220403.071117 
+
+https://arstechnica.com/gadgets/2022/02/new-preview-build-adds-microsoft-account-requirement-to-windows-11-pro/ 20220403.071222 
+
+https://arstechnica.com/gadgets/2022/02/new-preview-build-adds-microsoft-account-requirement-to-windows-11-pro/ 20220403.071740 
+
+https://www.extremetech.com/extreme/326879-how-to-install-windows-11-home-with-a-local-account 20220403.071816 
+
+https://www.extremetech.com/extreme/326879-how-to-install-windows-11-home-with-a-local-account 20220403.072655 
+
+https://www.19fortyfive.com/2022/04/a-12-oxcart-the-mach-3-spy-plane-that-russia-couldnt-stop/ 20220403.072811 
+
+https://www.19fortyfive.com/2022/04/a-12-oxcart-the-mach-3-spy-plane-that-russia-couldnt-stop/ 20220403.073511 
+
+https://www.19fortyfive.com/2022/03/we-might-know-why-russias-new-armata-tank-is-missing-from-ukraine/ 20220403.073628 
+
+https://www.19fortyfive.com/2022/03/we-might-know-why-russias-new-armata-tank-is-missing-from-ukraine/ 20220403.075111 
+
+https://www.19fortyfive.com/2022/02/naval-nightmares-meet-the-5-worst-aircraft-carriers/ 20220403.080924 
+
+https://www.homesandgardens.com/gardens/when-to-plant-hostas 20220403.082050 
+
+https://www.homesandgardens.com/gardens/best-fast-growing-shrubs 20220403.082310 
+
+https://www.windowslatest.com/2022/04/03/should-you-upgrade-to-windows-11-heres-a-list-of-missing-features/ 20220403.082706 
+
+https://www.windowslatest.com/2022/04/03/should-you-upgrade-to-windows-11-heres-a-list-of-missing-features/ 20220403.083229 
+
+https://www.foxnews.com/politics/the-pentagon-is-investigating-extremism-in-the-military-heres-how-bad-the-problem-is 20220403.084225 
+
+https://www.fool.com/investing/2022/04/02/want-the-max-4194-social-security-benefit-heres-th/ 20220403.085135 
+
+https://www.fool.com/investing/2022/04/02/want-the-max-4194-social-security-benefit-heres-th/ 20220403.085432 
+
+https://kenkousen.substack.com/p/tales-from-the-jar-side-java-18-the?utm_source=twitter&s=r 20220403.090241 
+
+https://aws.amazon.com/blogs/compute/optimizing-aws-lambda-function-performance-for-java/ 20220403.091559 
+
+https://grails.org/blog/2022-03-31-grails-spring-rce.html 20220403.091620 
+
+https://www.jhipster.tech/2022/04/01/jhipster-release-7.8.0.html 20220403.093907 
+
+https://www.java67.com/2018/06/top-15-spring-boot-interview-questions-answers-java-jee-programmers.html 20220403.095039 
+
+https://pragprog.com/titles/algh/land-the-tech-job-you-love/ 20220403.100648 
+
+https://medium.com/mobilepeople/backend-for-frontend-pattern-why-you-need-to-know-it-46f94ce420b0 20220403.100811 
+
+https://medium.com/mobilepeople/backend-for-frontend-pattern-why-you-need-to-know-it-46f94ce420b0 20220403.100856 
+
+https://www.reuters.com/world/asia-pacific/taliban-bans-drug-cultivation-including-lucrative-opium-2022-04-03/ 20220403.103357 
+
+https://www.fool.com/investing/2022/04/02/the-most-important-retirement-chart-youll-ever-see/ 20220403.104616 
+
+https://www.cnn.com/2022/04/03/opinions/putin-endless-war-weekly-column-galant/index.html 20220403.105610 
+
+https://www.cnn.com/2022/04/03/opinions/putin-endless-war-weekly-column-galant/index.html 20220403.110737 
+
+https://www.windowscentral.com/check-out-dells-new-ultrasharp-usb-c-hub-monitors-and-wave-pc-accessories 20220403.110939 
+
+https://medium.com/asecuritysite-when-bob-met-alice/using-yubikey-to-protect-email-with-mfa-d3815f25a455 20220403.111017 
+
+https://medium.com/asecuritysite-when-bob-met-alice/using-yubikey-to-protect-email-with-mfa-d3815f25a455 20220403.111610 
+
+https://www.forbes.com/sites/ewanspence/2022/04/02/apple-macbook-pro-13-macbook-air-m2-specs-leak/ 20220403.114500 
+
+https://loudounnow.com/2022/04/02/maryland-man-killed-in-rt-7-crash/ 20220403.114749 
+
+https://lifehacker.com/you-should-update-your-apple-devices-right-now-1848737318 20220403.115321 
+
+https://www.cnn.com/2022/03/31/opinions/russia-elite-putin-opinion-london/index.html 20220403.121346 
+
+https://www.tomsguide.com/news/macbook-air-2022-could-come-much-later-in-the-year 20220403.121858 
+
+https://www.cnn.com/videos/world/2022/04/03/putin-next-move-ukraine-clark-nr-vpx.cnn 20220403.124556 
+
+https://medium.com/asecuritysite-when-bob-met-alice/towards-zero-trust-meet-the-yubikey-ea1a9be58bfd 20220403.193415 
+
+https://www.pcmag.com/reviews/yubico-yubikey-5ci 20220403.194208 
+
+https://www.pcmag.com/reviews/yubico-yubikey-5ci 20220403.194426 
+
+https://www.pcmag.com/reviews/yubico-yubikey-5ci 20220403.195957 
+
+https://www.19fortyfive.com/2022/04/yf-23-the-mythical-stealth-fighter-the-us-air-force-didnt-need/ 20220403.200133 
+
+https://www.19fortyfive.com/2022/04/meet-the-buk-how-ukraine-is-shooting-down-russias-air-force/ 20220403.200748 
+
+https://www.19fortyfive.com/2022/04/merkava-iv-israel-might-have-the-worlds-best-tank/ 20220403.201047 
+
+https://www.19fortyfive.com/2022/03/what-if-putin-attacks-nato-here-is-what-could-happen-next/ 20220403.202816 
+
+https://www.19fortyfive.com/2022/03/russias-tanks-are-dying-in-ukraine-thanks-to-elon-musk/ 20220403.203026 
+
+https://www.19fortyfive.com/2022/03/russias-tanks-are-dying-in-ukraine-thanks-to-elon-musk/ 20220403.203505 
+
+https://www.19fortyfive.com/2022/04/do-russians-really-support-putins-brutal-war-against-ukraine/ 20220403.204042 
+
+https://www.19fortyfive.com/2022/04/meet-the-t-95-the-tank-nato-would-have-hated-to-fight/ 20220403.204457 
+
+https://www.foxnews.com/media/wapo-editorial-hunter-biden-laptop-reckoning-media 20220403.205408 
+
+https://www.foxnews.com/media/wapo-editorial-hunter-biden-laptop-reckoning-media 20220403.205639 
+
+https://www.tomshardware.com/news/intels-alder-lake-wall-street-canyon-nuc-exposed-in-new-leak 20220403.210703 
+
+https://www.tomshardware.com/reviews/raspberry-pi-barcode-reader-hat-review 20220403.210754 
+
+https://www.tomshardware.com/reviews/raspberry-pi-barcode-reader-hat-review 20220403.211825 
+
+https://www.kingston.com/en/usb-flash-drives/datatraveler-max-usb-c-flash-drive 20220403.211930 
+
+https://www.kingston.com/en/usb-flash-drives/datatraveler-max-usb-c-flash-drive 20220403.211955 
+
+https://www.techradar.com/news/microsoft-quietly-reverses-one-of-the-most-outrageous-windows-11-changes 20220403.220139 
+
+https://www.newsweek.com/anonymous-leaks-personal-data-120k-russian-soldiers-fighting-ukraine-1694555 20220403.221113 
+
+https://www.newsweek.com/nato-defeated-russia-ukraine-british-ex-general-uk-1693693 20220403.221245 
+
+https://www.newsweek.com/israel-condemns-russia-late-horrific-images-emerge-bucha-1694576 20220403.221428 
+
+https://m.youtube.com/watch?v=hl4YWdLIk4w 20220403.221544 
+
+https://answers.microsoft.com/en-us/windows/forum/all/account-owner-folder-has-a-space-in-it-so-im/c798c873-2135-4c99-9144-4e8d9efb2f96 20220404.051434 
+
+https://stackoverflow.com/questions/35175814/windows-10-username-with-whitespace-and-path 20220404.053349 
+
+https://docs.microsoft.com/en-us/troubleshoot/windows-client/user-profiles-and-logon/renaming-user-account-not-change-profile-path 20220404.053532 
+
+https://www.infoq.com/news/2022/04/java-news-roundup-mar28-2022/ 20220404.053632 
+
+https://www.infoq.com/news/2022/04/java-news-roundup-mar28-2022/ 20220404.054158 
+
+https://www.howtogeek.com/788606/how-to-move-your-cursor-without-a-mouse-on-a-mac/ 20220404.054342 
+
+https://www.howtogeek.com/788606/how-to-move-your-cursor-without-a-mouse-on-a-mac/ 20220404.054535 
+
+https://www.howtogeek.com/751960/microsoft-backs-down-windows-11-will-run-on-any-pc/ 20220404.054958 
+
+https://www.howtogeek.com/751960/microsoft-backs-down-windows-11-will-run-on-any-pc/ 20220404.055038 
+
+https://www.raspberrypi.com/news/production-and-supply-chain-update/ 20220404.205128 
+
+https://www.raspberrypi.com/news/production-and-supply-chain-update/ 20220405.030024 
+
+https://foojay.io/today/handling-null-optional-and-nullable-types/ 20220405.055538 
+
+https://foojay.io/today/handling-null-optional-and-nullable-types/ 20220405.055711 
+
+https://stackoverflow.com/questions/71739418/debug-grails-in-vscode?utm_source=dlvr.it&utm_medium=twitter 20220405.062308 
+
+https://foojay.io/today/how-to-style-a-vaadin-application/ 20220405.062402 
+
+https://foojay.io/today/how-to-style-a-vaadin-application/ 20220405.062443 
+
+https://techbeacon.com/app-dev-testing/are-you-really-doing-continuous-integration-heres-how-tell 20220405.063304 
+
+https://proandroiddev.com/bytecode-transformations-the-android-gradle-plugin-def2be393bca 20220405.064916 
+
+https://www.jetbrains.com/idea/guide/tutorials/migrating-javax-jakarta/ 20220405.065400 
+
+https://javarevisited.blogspot.com/2022/03/how-to-use-record-in-java-example.html#axzz7PGi79Q3d 20220405.070100 
+
+https://github.com/childofthehorn/android_studio_gitignore 20220405.070211 
+
+https://wccftech.com/intels-mac-studio-killer-the-intel-alder-lake-wall-street-canyon-nuc-leaks-out/ 20220405.083057 
+
+https://wccftech.com/intels-mac-studio-killer-the-intel-alder-lake-wall-street-canyon-nuc-leaks-out/ 20220405.083148 
+
+https://www.infoq.com/news/2022/04/apache-releases-netbeans-13/ 20220405.083212 
+
+https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/ 20220405.083341 
+
+https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/ 20220405.083654 
+
+https://northernvirginiamag.com/guides/trails/ 20220405.083915 
+
+https://northernvirginiamag.com/guides/trails/ 20220405.084048 
+
+https://www.reuters.com/business/us-cracks-down-russian-debt-payments-latest-sovereign-payments-halted-2022-04-05/ 20220405.084800 
+
+https://loudounnow.com/2022/04/05/loudoun-to-host-bike-to-work-day-pit-stops/ 20220405.085351 
+
+https://www.newsweek.com/chris-wallaces-classless-act-opinion-1694021 20220405.085821 
+
+https://www.foxnews.com/entertainment/disney-stars-canceled-over-negative-cultural-political-views 20220405.090322 
+
+https://www.pcmag.com/news/intel-wall-street-canyon-nuc-details-leak 20220405.200512 
+
+https://www.pcmag.com/news/intel-wall-street-canyon-nuc-details-leak 20220405.200753 
+
+https://www.pcmag.com/news/intel-wall-street-canyon-nuc-details-leak 20220405.200817 
+
+https://www.tomshardware.com/news/raspberry-pi-pico-sun-tracker 20220405.200933 
+
+https://medium.com/codex/some-tips-to-make-your-vs-code-more-efficient-db77ec7071f8 20220405.201642 
+
+https://medium.com/codex/some-tips-to-make-your-vs-code-more-efficient-db77ec7071f8 20220405.202434 
+
+https://www.windowscentral.com/belkin-connect-pro-tb4-dock-review 20220405.203121 
+
+https://stackoverflow.com/questions/30095376/how-do-i-search-for-files-in-visual-studio-code 20220405.204408 
+
+https://www.theburn.com/2022/04/04/loudouns-latest-burger-king-location-opens-its-doors/ 20220405.205318 
+
+https://www.theburn.com/2022/04/04/loudouns-latest-burger-king-location-opens-its-doors/ 20220405.205507 
+
+https://www.infoq.com/news/2022/04/java-news-roundup-mar28-2022/ 20220405.210853 
+
+https://www.cnn.com/2022/04/05/politics/mark-milley-ukraine-reaction-international-conflict/index.html 20220405.211349 
+
+https://www.scartb.com/products/50-off-wooden-kinetic-hummingbird-sculpture 20220405.212420 
+
+https://www.scartb.com/products/50-off-wooden-kinetic-hummingbird-sculpture 20220405.212613 
+
+https://wjla.com/news/local/loudoun-county-orbeez-gun-splatter-paint-ball-pellets-shootings-report-leesburg-chantilly-tiktok-challenge-arlington-police-sheriffs-office-investigation-juveniles 20220405.214059 
+
+https://grails.org/blog/2022-04-01-jetbrains-new-tools-and-infrastructure-partner.html?utm_campaign=2GM%20Community%20Engagement&utm_content=203577171&utm_medium=social&utm_source=twitter&hss_channel=tw-45415746 20220406.060540 
+
+https://grails.org/blog/2022-03-31-grails-spring-rce.html 20220406.060611 
+
+https://grails.org/blog/2022-01-07-gradle-enterprise-tools-and-infrastructure-partner.html 20220406.060638 
+
+https://stackoverflow.com/questions/71757848/grails-2-5-4-does-not-log-anything-when-running-with-run-app-after-upgrading-log?utm_source=dlvr.it&utm_medium=twitter 20220406.061522 
+
+https://stackoverflow.com/questions/71757848/grails-2-5-4-does-not-log-anything-when-running-with-run-app-after-upgrading-log?utm_source=dlvr.it&utm_medium=twitter 20220406.062007 
+
+https://www.amazon.com/Best-Sellers-Ruby-Programming/zgbs/books/6134006011 20220406.063316 
+
+https://www.freecodecamp.org/news/command-line-for-beginners/ 20220406.064517 
+
+https://www.freecodecamp.org/news/command-line-for-beginners/ 20220406.064832 
+
+https://opensource.com/article/22/4/git-tips 20220406.064927 
+
+https://opensource.com/article/22/4/git-tips 20220406.065151 
+
+https://opensource.com/article/22/4/git-aliases-bashrc 20220406.065452 
+
+https://opensource.com/article/22/4/git-aliases-bashrc 20220406.065557 
+
+https://support.microsoft.com/en-us/topic/how-to-store-and-retrieve-variables-in-word-documents-3a912a35-42a0-7a28-7f2d-787ed6afb566 20220406.070019 
+
+https://support.microsoft.com/en-us/topic/how-to-store-and-retrieve-variables-in-word-documents-3a912a35-42a0-7a28-7f2d-787ed6afb566 20220406.070359 
+
+https://rubygems.org/gems/extracter/versions/1.2.10 20220406.070518 
+
+https://rubygems.org/gems/extracter/versions/1.2.10/dependencies 20220406.070626 
+
+https://rubycentral.org/ 20220406.070714 
+
+https://rubycentral.org/ 20220406.070748 
+
+https://rubygems.org/ 20220406.070807 
+
+https://www.defensenews.com/air/2022/04/05/heres-the-new-name-of-the-us-air-forces-next-gen-nuke/ 20220406.071002 
+
+https://www.defensenews.com/air/2022/04/05/heres-the-new-name-of-the-us-air-forces-next-gen-nuke/ 20220406.071612 
+
+https://www.defensenews.com/air/2022/04/05/heres-the-new-name-of-the-us-air-forces-next-gen-nuke/ 20220406.071626 
+
+https://www.defensenews.com/air/2022/04/05/heres-the-new-name-of-the-us-air-forces-next-gen-nuke/ 20220406.071641 
+
+https://www.digitaltrends.com/computing/how-to-disable-onedrive/ 20220406.072057 
+
+https://www.freecodecamp.org/news/git-diff-command/ 20220406.072315 
+
+https://www.freecodecamp.org/news/git-diff-command/ 20220406.072508 
+
+https://www.tomsguide.com/news/intel-arc-is-off-to-a-bad-start-on-laptops-nvidia-blows-it-away 20220406.072538 
+
+https://www.tomsguide.com/news/intel-arc-is-off-to-a-bad-start-on-laptops-nvidia-blows-it-away 20220406.072958 
+
+https://www.pcmag.com/how-to/boost-your-productivity-with-our-top-20-windows-11-keyboard-shortcuts 20220406.073733 
+
+https://www.pcmag.com/how-to/boost-your-productivity-with-our-top-20-windows-11-keyboard-shortcuts 20220406.074536 
+
+http://www.jdeploy.com/ 20220406.083608 
+
+http://www.jdeploy.com/ 20220406.182650 
+
+http://www.jdeploy.com/ 20220406.182700 
+
+https://blog.jetbrains.com/idea/2022/04/java-annotated-monthly-april-2022/ 20220406.182858 
+
+https://www.theverge.com/23012424/anker-first-3d-printer-ankermake-m5-price-specs-launch 20220406.183244 
+
+https://www.theverge.com/23012424/anker-first-3d-printer-ankermake-m5-price-specs-launch 20220406.183304 
+
+https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-usagenotes-connect-drivermanager.html 20220406.211144 
+
+https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.28 20220406.211349 
+
+https://www.infoworld.com/article/3655639/unfettered-developer-freedom-may-be-over.html 20220406.212017 
+
+https://www.macworld.com/article/626321/five-exciting-new-macs-we-cant-wait-to-see.html 20220406.212457 
+
+https://nypost.com/2022/04/05/mets-nationals-opening-day-game-may-get-pushed-to-apple-tv/ 20220406.213822 
+
+https://www.elastic.co/blog/how-to-build-application-search-with-ruby-on-rails-and-elastic 20220407.045136 
+
+https://www.pluralsight.com/guides/elasticsearch-with-ruby-on-rails 20220407.051253 
+
+https://www.pluralsight.com/guides/elasticsearch-with-ruby-on-rails 20220407.052349 
+
+https://www.toptal.com/ruby-on-rails/elasticsearch-for-ruby-on-rails-an-introduction-to-chewy 20220407.052434 
+
+https://www.toptal.com/ruby-on-rails/elasticsearch-for-ruby-on-rails-an-introduction-to-chewy 20220407.052443 
+
+https://www.toptal.com/ruby-on-rails/elasticsearch-for-ruby-on-rails-an-introduction-to-chewy 20220407.054344 
+
+https://www.toptal.com/ruby-on-rails/elasticsearch-for-ruby-on-rails-an-introduction-to-chewy 20220407.054352 
+
+https://github.com/toptal/chewy 20220407.060449 
+
+https://www.raspberrypi.com/news/raspberry-pi-bullseye-update-april-2022/ 20220407.182926 
+
+https://www.raspberrypi.com/news/raspberry-pi-bullseye-update-april-2022/ 20220407.184054 
+
+https://blog.jetbrains.com/idea/2022/04/java-annotated-monthly-april-2022/ 20220407.184128 
+
+https://blog.jetbrains.com/idea/2022/04/java-annotated-monthly-april-2022/ 20220407.215128 
+
+https://www.infoworld.com/article/3655139/intro-to-hilla-the-full-stack-java-framework.html 20220407.220601 
+
+https://www.infoworld.com/article/3655139/intro-to-hilla-the-full-stack-java-framework.html 20220407.220713 
+
+https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/ 20220407.223204 
+
+https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/ 20220407.223649 
+
+https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/ 20220407.223659 
+
+https://nypost.com/2022/04/08/obama-blasted-for-self-serving-revisionist-russia-comments-during-conference-on-disinformation/ 20220408.054641 
+
+https://nypost.com/2022/04/08/obama-blasted-for-self-serving-revisionist-russia-comments-during-conference-on-disinformation/ 20220408.055357 
+
+https://www.politico.com/news/magazine/2022/04/07/russians-putin-fleeing-00023482 20220408.060144 
+
+https://www.politico.com/news/magazine/2022/04/07/russians-putin-fleeing-00023482 20220408.062213 
+
+https://www.politico.com/news/magazine/2022/04/07/russians-putin-fleeing-00023482 20220408.063619 
+
+https://www.cnet.com/tech/computing/mac-mini-2022-rumors-apple-please-add-ports-to-the-front/ 20220408.063703 
+
+https://www.cnet.com/tech/computing/mac-mini-2022-rumors-apple-please-add-ports-to-the-front/ 20220408.064133 
+
+https://www.omgubuntu.co.uk/2022/04/ubuntu-22-04-lts-20-key-changes 20220408.064842 
+
+https://www.omgubuntu.co.uk/2022/04/ubuntu-22-04-lts-20-key-changes 20220408.065857 
+
+https://www.omgubuntu.co.uk/2022/04/ubuntu-22-04-lts-20-key-changes 20220408.070924 
+
+https://nichegamer.com/windows-11-will-require-a-microsoft-account-for-all-install/ 20220408.071538 
+
+https://www.foxnews.com/us/fairfax-virginia-descano-confrontation-cleared-investigation-brady-list 20220408.073257 
+
+https://www.cnn.com/style/article/steinway-tower-intl-scli/index.html 20220408.073607 
+
+https://soccer.epicsports.com/prod/146523/index.html 20220408.073757 
+
+https://www.foxnews.com/politics/kristi-noem-message-republican-party-get-over-yourself 20220408.073845 
+
+https://www.foxnews.com/politics/kristi-noem-message-republican-party-get-over-yourself 20220408.074658 
+
+https://www.foxnews.com/politics/kristi-noem-message-republican-party-get-over-yourself 20220408.074709 
+
+https://www.space.com/spinlaunch-nasa-suborbital-test-flight-agreement 20220408.075332 
+
+https://www.space.com/spinlaunch-nasa-suborbital-test-flight-agreement 20220408.235044 
+
+https://thehill.com/news/media/3262465-lara-logan-says-she-was-pushed-out-at-fox-news/ 20220409.000259 
+
+https://lifehacker.com/why-you-should-buy-the-dumbest-tv-you-can-find-1848768646 20220409.002807 
+
+https://www.howtogeek.com/789660/how-to-use-windows-cmd-environment-variables/ 20220409.003146 
+
+https://medium.com/codex/the-linux-swiss-army-knife-dd9d27668c0e 20220409.003311 
+
+https://www.opensourceforu.com/2022/04/is-java-dead/ 20220409.004314 
+
+https://vpm.org/articles/30204/a-travelers-guide-to-rocket-launches-at-wallops-island 20220409.004510 
+
+https://vpm.org/articles/30204/a-travelers-guide-to-rocket-launches-at-wallops-island 20220409.005032 
+
+https://www.techrepublic.com/article/how-to-safely-store-passwords-linux-server/ 20220409.005205 
+
+https://www.techrepublic.com/article/how-to-safely-store-passwords-linux-server/ 20220409.005525 
+
+https://www.techrepublic.com/article/how-to-safely-store-passwords-linux-server/ 20220409.042456 
+
+https://www.theburn.com/2022/04/07/new-terminal-proposed-for-dulles-international-airport/ 20220409.043004 
+
+https://www.theburn.com/2022/04/07/new-terminal-proposed-for-dulles-international-airport/ 20220409.043226 
+
+https://liliputing.com/2022/04/lilbits-raspberry-pi-os-a-tiny-computer-module-with-a-16-core-cpu-and-a-quick-look-clone-for-windows.html 20220409.043648 
+
+https://liliputing.com/2022/04/intels-wall-street-canyon-nuc-is-powered-by-28w-alder-lake-p.html 20220409.044117 
+
+https://liliputing.com/2022/04/intels-wall-street-canyon-nuc-is-powered-by-28w-alder-lake-p.html 20220409.044505 
+
+https://www.techrepublic.com/article/how-to-upgrade-ubuntu-server-from-20-04-to-22-04/ 20220409.044832 
+
+https://www.techrepublic.com/article/how-to-upgrade-ubuntu-server-from-20-04-to-22-04/ 20220409.045336 
+
+https://www.19fortyfive.com/2022/04/introducing-the-x-44-manta-the-air-forces-plan-for-a-delta-stealth-fighter/ 20220409.045424 
+
+https://www.19fortyfive.com/2022/04/introducing-the-x-44-manta-the-air-forces-plan-for-a-delta-stealth-fighter/ 20220409.045745 
+
+https://www.politico.com/news/2022/04/08/congress-sanction-war-putin-00023966 20220409.051257 
+
+https://www.19fortyfive.com/2022/04/meet-the-p-51-mustang-the-greatest-fighter-plane-ever/ 20220409.051335 
+
+https://www.19fortyfive.com/2022/04/meet-the-p-51-mustang-the-greatest-fighter-plane-ever/ 20220409.051823 
+
+https://www.oritoger.com/products/annihilation-f3-multifunctional-folding-survival-shovel 20220409.052344 
+
+https://www.cnn.com/2022/04/08/opinions/barack-obama-russia-revisionism-cupp/index.html 20220409.052644 
+
+https://www.cnn.com/2022/04/08/opinions/barack-obama-russia-revisionism-cupp/index.html 20220409.053205 
+
+https://www.phoronix.com/scan.php?page=news_item&px=Raspberry-Pi-OS-Wayland 20220409.053248 
+
+https://www.phoronix.com/scan.php?page=news_item&px=Raspberry-Pi-OS-Wayland 20220409.053311 
+
+https://www.phoronix.com/scan.php?page=news_item&px=Raspberry-Pi-OS-Wayland 20220409.053326 
+
+https://www.phoronix.com/scan.php?page=news_item&px=Raspberry-Pi-OS-Wayland 20220409.053820 
+
+https://www.tomshardware.com/news/raspberry-pi-diet-pi-optimized-os 20220409.055529 
+
+https://www.exploredplanet.com/guides/maps-that-show-us-a-new-perspective/?view-all 20220409.061040 
+
+https://www.exploredplanet.com/guides/maps-that-show-us-a-new-perspective/?view-all 20220409.061205 
+
+https://grails.github.io/grails2-doc/2.5.x/ref/Database%20Mapping/joinTable.html 20220409.063956 
+
+https://grails.github.io/grails2-doc/2.5.x/ref/Database%20Mapping/joinTable.html 20220409.064231 
+
+https://grails.github.io/grails2-doc/2.5.4/guide/GORM.html 20220409.064730 
+
+https://grails.github.io/grails2-doc/2.5.x/ref/Database%20Mapping/joinTable.html 20220409.080340 
+
+https://gorm.grails.org/latest/hibernate/manual/ 20220409.080421 
+
+https://gorm.grails.org/latest/hibernate/manual/ 20220409.082311 
+
+https://gorm.grails.org/latest/hibernate/manual/ 20220409.083444 
+
+https://stackoverflow.com/questions/68444557/how-do-you-specify-a-join-tables-name-and-columns-in-a-grails-4-domain-class 20220409.083914 
+
+https://objectcomputing.com/resources/publications/sett/july-2017-web-app-step-by-step-grails-edition 20220409.084025 
+
+https://objectcomputing.com/resources/publications/sett/july-2017-web-app-step-by-step-grails-edition 20220409.084229 
+
+https://objectcomputing.com/resources/publications/sett/july-2017-web-app-step-by-step-grails-edition 20220409.084831 
+
+https://objectcomputing.com/resources/publications/sett/july-2017-web-app-step-by-step-grails-edition 20220409.085555 
+
+https://schneide.blog/2016/04/26/updating-from-grails-2-3-to-something-newer/ 20220409.091140 
+
+https://github.com/grails/grails-data-mapping/issues/581 20220409.092357 
+
+https://schneide.blog/2016/04/26/updating-from-grails-2-3-to-something-newer/ 20220409.092419 
+
+https://objectpartners.com/2015/05/14/list-of-groovy-versions-for-each-version-of-grails/ 20220409.092640 
+
+https://objectpartners.com/2015/05/14/list-of-groovy-versions-for-each-version-of-grails/ 20220409.092948 
+
+https://objectpartners.com/2015/05/14/list-of-groovy-versions-for-each-version-of-grails/ 20220409.093041 
+
+https://www.theverge.com/23012424/anker-first-3d-printer-ankermake-m5-price-specs-launch 20220409.093219 
+
+https://www.tomshardware.com/news/raspberry-pi-diet-pi-optimized-os 20220409.093323 
+
+https://9to5linux.com/raspberry-pi-os-is-now-powered-by-linux-5-15-lts-gets-experimental-wayland-backend 20220409.093943 
+
+https://www.fairfaxtimes.com/articles/fairfax_county/silver-line-delayed-again/article_543ce85a-b6aa-11ec-8fee-3b0d14976cec.html 20220409.094420 
+
+https://www.fairfaxtimes.com/articles/fairfax_county/silver-line-delayed-again/article_543ce85a-b6aa-11ec-8fee-3b0d14976cec.html 20220409.094721 
+
+https://www.wired.com/story/russia-ukraine-war-ai-surveillance/ 20220409.101102 
+
+https://www.wired.com/story/russia-ukraine-war-ai-surveillance/ 20220409.102253 
+
+https://www.sony.com/electronics/support/audio-components-receivers-amplifiers/str-dn1080/manuals 20220409.210725 
+
+https://www.sony.com/electronics/support/res/manuals/4686/46865251M.pdf 20220409.210751 
+
+https://blog.jetbrains.com/idea/2022/04/comment-your-code-like-a-pro-with-intellij-idea/ 20220410.004604 
+
+https://blogs.oracle.com/javamagazine/post/java-local-reference-type-inference 20220410.004809 
+
+https://blogs.oracle.com/javamagazine/post/java-local-reference-type-inference 20220410.004951 
+
+https://threadreaderapp.com/thread/1512700758860320768.html 20220410.005638 
+
+https://www.infoq.com/news/2022/04/apache-releases-netbeans-13/ 20220410.005919 
+
+https://medium.com/javarevisited/getting-started-with-rabbitmq-in-spring-boot-6323b9179247 20220410.012624 
+
+https://www.theburn.com/2022/04/06/old-navy-reportedly-closing-dulles-town-center-store/ 20220410.013837 
+
+https://www.theburn.com/2022/04/06/old-navy-reportedly-closing-dulles-town-center-store/ 20220410.014010 
+
+https://www.techradar.com/news/trying-to-buy-a-microsd-card-proved-to-me-that-amazon-is-becoming-a-scammers-paradise 20220410.015033 
+
+https://www.newsweek.com/virginia-parent-fighting-race-based-admissions-wins-legal-battle-1696565 20220410.063440 
+
+https://www.newsweek.com/virginia-parent-fighting-race-based-admissions-wins-legal-battle-1696565 20220410.063624 
+
+https://thenewstack.io/the-promise-of-webassembly-heads-to-ruby/ 20220410.064429 
+
+https://hackaday.com/2022/04/08/a-close-look-at-a-little-known-8-bit-computer/ 20220410.065022 
+
+https://thehill.com/news/3262798-democrats-face-steep-odds-in-bid-to-keep-senate/ 20220410.071141 
+
+https://www.nationalreview.com/2022/04/bad-news-bears/ 20220410.082247 
+
+https://www.npr.org/2022/04/10/1091920075/zelenskyy-russian-aggression-not-limited-to-ukraine-alone 20220410.084212 
+
+https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10 20220410.085628 
+
+https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10 20220410.085736 
+
+https://news.google.com/articles/CBMiRWh0dHBzOi8vbmV3cy55YWhvby5jb20vc3B1cnJlZC1wdXRpbi1ydXNzaWFucy10dXJuLW9uZS0xNDQ0Mzg0MDguaHRtbNIBTWh0dHBzOi8vbmV3cy55YWhvby5jb20vYW1waHRtbC9zcHVycmVkLXB1dGluLXJ1c3NpYW5zLXR1cm4tb25lLTE0NDQzODQwOC5odG1s?hl=en-US&gl=US&ceid=US%3Aen 20220410.112224 
+
+https://9to5mac.com/2022/04/10/gurman-apple-could-announce-two-new-macs-at-wwdc-2022/ 20220410.204835 
+
+https://www.techradar.com/news/raspberry-pi-boards-just-got-an-obvious-upgrade-that-should-have-landed-ages-ago 20220410.211807 
+
+https://www.sfgate.com/local/article/SF-Aliotos-Restaurant-to-close-17069430.php 20220410.212337 
+
+https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM 20220410.233334 
+
+https://www.sfgate.com/local/article/SF-Aliotos-Restaurant-to-close-17069430.php 20220410.233447 
+
+https://www.19fortyfive.com/2022/04/meet-the-f-23-stealth-fighter-the-best-combat-plane-the-air-force-said-no-to/ 20220410.233636 
+
+https://finbold.com/robert-kiyosaki-warns-rising-inflation-will-wipe-out-50-of-the-us-population/ 20220410.234017 
+
+https://stackoverflow.com/questions/65826561/how-to-configure-grails-2-5-1-to-use-hibernate-5 20220411.092706 
+
+https://grails.io/post/133798408743/announcing-gorm-5-suite 20220411.092840 
+
+http://gorm.grails.org/latest/hibernate/manual/index.html 20220411.092914 
+
+http://gorm.grails.org/latest/hibernate/manual/index.html 20220411.093247 
+
+http://gorm.grails.org/latest/hibernate/manual/index.html 20220411.093926 
+
+https://grails.io/post/133798408743/announcing-gorm-5-suite 20220411.095719 
+
+https://www.danvega.dev/blog/2015/11/25/using-gorm-in-spring-boot/ 20220411.100059 
+
+https://www.danvega.dev/blog/2015/11/25/using-gorm-in-spring-boot/ 20220411.100316 
+
+https://docs.grails.org/4.0.0/guide/single.html 20220411.100413 
+
+https://docs.grails.org/4.0.0/guide/single.html 20220411.101202 
+
+https://plugins.grails.org/plugin/grails/hibernate4 20220411.101236 
+
+http://gorm.grails.org/latest/hibernate/manual/ 20220411.101351 
+
+https://plugins.grails.org/plugin/grails/hibernate4 20220411.101403 
+
+https://plugins.grails.org/ 20220411.101422 
+
+https://plugins.grails.org/legacy-plugins 20220411.101642 
+
+https://stackoverflow.com/questions/65826561/how-to-configure-grails-2-5-1-to-use-hibernate-5 20220411.102122 
+
+http://gorm.grails.org/5.0.x/hibernate/manual/index.html 20220411.102447 
+
+https://www.foxnews.com/us/dc-fake-feds-tipped-off-shipped-evidence 20220411.113131 
+
+https://www.infoq.com/news/2022/04/java-news-roundup-apr04-2022/ 20220411.113502 
+
+https://www.infoq.com/news/2022/04/java-news-roundup-apr04-2022/ 20220411.113703 
+
+https://www.macworld.com/article/626321/macs-likely-to-launch-at-wwdc.html 20220411.113746 
+
+https://www.nba.com/standings 20220411.123924 
+
+https://docs.groovy-lang.org/docs/groovy-2.5.4/html/gapi/groovy/lang/Grab.html 20220411.124035 
+
+https://docs.groovy-lang.org/docs/groovy-2.5.4/html/gapi/groovy/lang/Grab.html 20220411.124050 
+
+https://grails.org/search.html 20220411.124104 
+
+https://grails.org/search.html 20220411.124117 
+
+https://plugins.grails.org/legacy-plugins 20220411.124131 
+
+https://plugins.grails.org/legacy-plugins 20220411.124207 
+
+https://plugins.grails.org/legacy-plugins 20220411.124222 
+
+https://plugins.grails.org/plugin/grails/hibernate4 20220411.124242 
+
+http://gorm.grails.org/latest/hibernate/manual/index.html 20220411.124301 
+
+http://gorm.grails.org/latest/hibernate/manual/index.html 20220411.124315 
+
+https://grails.io/post/133798408743/announcing-gorm-5-suite 20220411.124329 
+
+https://grails.io/post/133798408743/announcing-gorm-5-suite 20220411.124345 
+
+https://grails.io/post/133798408743/announcing-gorm-5-suite 20220411.124356 
+
+https://grails.io/post/133798408743/announcing-gorm-5-suite 20220411.124410 
+
+https://www.sony.com/electronics/support/audio-components-receivers-amplifiers/str-dn1080/manuals 20220411.124456 
+
+https://www.sony.com/electronics/support/audio-components-receivers-amplifiers/str-dn1080/manuals 20220411.124510 
+
+https://www.sony.com/electronics/support/audio-components-receivers-amplifiers/str-dn1080/manuals 20220411.124524 
+
+https://www.sony.com/electronics/support/audio-components-receivers-amplifiers/str-dn1080/downloads 20220411.125031 
+
+https://www.sony.com/electronics/support/audio-components-receivers-amplifiers/str-dn1080/downloads 20220411.125104 
+
+https://www.sony.com/electronics/support/audio-components-receivers-amplifiers/str-dn1080/downloads 20220411.125501 
+
+https://helpguide.sony.net/ha/strdn108/v1/en/contents/TP0001221215.html 20220411.125724 
+
+https://helpguide.sony.net/ha/strdn108/v1/en/contents/TP0001221179.html 20220411.130137 
+
+https://helpguide.sony.net/ha/strdn108/v1/en/contents/TP0001224867.html 20220411.130618 
+
+https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.28 20220411.130936 
+
+https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.28 20220411.130955 
+
+https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.28 20220411.131048 
+
+https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.28 20220411.131103 
+
+https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-usagenotes-connect-drivermanager.html 20220411.131120 
+
+https://grails.github.io/grails2-doc/2.5.4/guide/conf.html 20220411.131155 
+
+https://grails.github.io/grails2-doc/2.5.4/guide/conf.html 20220411.131209 
+
+https://www.theverge.com/23012424/anker-first-3d-printer-ankermake-m5-price-specs-launch 20220411.131246 
+
+https://www.windowscentral.com/microsoft-powertoys-update-lets-you-preview-more-images-file-explorer 20220411.131313 
+
+https://medium.com/weekly-webtips/vs-code-extensions-you-need-if-youre-a-ruby-developer-add2ce8683f6 20220411.131342 
+
+https://morioh.com/ 20220411.131419 
+
+https://medium.com/@eliostreicher/vs-code-like-a-boss-aaee0f52284a 20220411.131556 
+
+https://www.livescience.com/best-laptops-for-coding-and-programming 20220411.133727 
+
+https://nypost.com/2022/04/10/biden-family-scheme-unravels/ 20220411.140927 
+
+https://medium.com/asecuritysite-when-bob-met-alice/towards-zero-trust-meet-the-yubikey-ea1a9be58bfd 20220411.141039 
+
+https://medium.com/asecuritysite-when-bob-met-alice/using-yubikey-to-protect-email-with-mfa-d3815f25a455 20220411.141935 
+
+https://medium.com/asecuritysite-when-bob-met-alice/using-yubikey-to-protect-email-with-mfa-d3815f25a455 20220411.142512 
+
+https://medium.com/asecuritysite-when-bob-met-alice/towards-zero-trust-meet-the-yubikey-ea1a9be58bfd 20220411.142534 
+
+https://the-gadgeteer.com/2022/04/10/walabot-diy-2-visual-stud-finder-review-does-it-give-you-x-ray-vision/ 20220411.143116 
+
+https://www.cnn.com/2022/04/11/europe/austria-nehammer-putin-meeting-russia-ukraine-intl/index.html 20220411.143955 
+
+https://hackernoon.com/configuring-vs-code-for-java 20220411.204320 
+
+https://hackernoon.com/configuring-vs-code-for-java 20220411.204827 
+
+https://blog.kie.org/2022/04/rise-of-j2cl-java-web-development-after-gwt.html 20220411.205236 
+
+https://www.macrumors.com/2022/04/11/apple-scraps-plans-for-2022-mac-mini/ 20220411.210135 
+
+https://www.space.com/partial-solar-eclipse-on-april-30-2022 20220412.034626 
+
+https://www.space.com/partial-solar-eclipse-on-april-30-2022 20220412.034817 
+
+https://griffintechnology.com/collections/power 20220413.011100 
+
+https://griffintechnology.com/collections/power 20220413.011129 
+
+https://arstechnica.com/gadgets/2022/04/studio-display-firmware-file-reveals-that-a-new-mac-mini-model-could-be-imminent/ 20220413.011616 
+
+https://theaviationgeekclub.com/the-story-of-the-xb-52-and-yb-52-the-prototype-b-52s-scrapped-after-first-lady-lady-bird-johnsons-beautification-of-the-us-air-force-museum/ 20220413.012439 
+
+https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/ 20220413.012845 
+
+https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/ 20220413.012858 
+
+https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/ 20220413.013300 
+
+https://pureinfotech.com/upgrade-wsl2-wsl1-windows-10/ 20220413.013613 
+
+https://pureinfotech.com/check-wsl-version-windows-10/ 20220413.013946 
+
+https://www.cnet.com/tech/computing/heres-how-to-find-the-wi-fi-password-to-any-network-youve-connected-to/ 20220413.195442 
+
+https://foojay.io/today/top-10-java-language-features/ 20220413.195458 
+
+https://www.hardwarezone.com.sg/tech-news-new-macbook-air-white-bezels-and-coloured-bodies-m2-chip 20220413.195722 
+
+https://www.debugpoint.com/2022/04/ubuntu-mate-22-04-lts/ 20220413.200149 
+
+https://www.howtogeek.com/795052/stop-using-notepad/ 20220413.202539 
+
+https://www.newsweek.com/while-boris-johnson-walks-kyiv-joe-biden-bicycles-delaware-opinion-1697402 20220413.203425 
+
+https://www.newsweek.com/while-boris-johnson-walks-kyiv-joe-biden-bicycles-delaware-opinion-1697402 20220413.203911 
+
+https://www.foxnews.com/media/founder-home-depot-biden-worse-jimmy-carter-recession 20220413.204031 
+
+https://www.foxnews.com/media/founder-home-depot-biden-worse-jimmy-carter-recession 20220413.204300 
+
+https://www.zdnet.com/article/why-you-shouldnt-connect-to-insecure-networks-with-your-mobile-device/ 20220414.104649 
+
+https://www.cnn.com/2022/04/12/economy/recession-inflation-economy/index.html 20220414.104900 
+
+https://www.cnn.com/2022/04/12/economy/recession-inflation-economy/index.html 20220414.105606 
+
+https://www.foxnews.com/world/russia-nuclear-threat-sweden-finland-nato 20220414.110810 
+
+https://thenewstack.io/zero-trust-security-for-developer-workstations/ 20220414.111328 
+
+https://thenewstack.io/zero-trust-security-for-developer-workstations/ 20220414.111811 
+
+https://www.theburn.com/2022/04/11/ashburns-old-ox-brewery-merging-with-maryland-brewer/ 20220414.112132 
+
+https://www.loudoun.gov/5413/PRCS-Special-Events 20220414.112249 
+
+https://www.loudoun.gov/5413/PRCS-Special-Events 20220414.112537 
+
+https://wtop.com/fairfax-county/2022/04/fairfax-co-high-school-bans-cellphones-during-class-after-usage-found-at-all-time-high/ 20220414.112738 
+
+https://9to5google.com/2022/04/14/nest-google-wifi-offline-random/ 20220414.210544 
+
+https://www.macrumors.com/2022/04/14/apple-testing-m2-macs/ 20220414.211124 
+
+https://loudounnow.com/2022/04/14/letter-chris-stevenson-the-community-levee-association-of-loudoun-county/ 20220415.054142 
+
+https://www.macrumors.com/2022/04/14/apple-testing-m2-macs/ 20220415.054425 
+
+https://www.macrumors.com/2022/04/14/apple-testing-m2-macs/ 20220415.055031 
+
+https://www.notebookcheck.net/Anker-releases-the-551-8-in-1-USB-C-Hub-and-tablet-stand-with-pass-through-charging.613846.0.html 20220415.060033 
+
+https://rubydoc.info/gems/opensearch-ruby 20220415.061623 
+
+https://github.com/opensearch-project/opensearch-ruby/tree/main/opensearch-transport 20220415.062212 
+
+https://northernvirginiamag.com/food/food-features/2022/04/14/the-best-old-school-italian-spots-in-northern-virginia/ 20220416.014033 
+
+https://northernvirginiamag.com/food/food-features/2022/04/14/the-best-old-school-italian-spots-in-northern-virginia/ 20220416.014255 
+
+https://northernvirginiamag.com/food/food-features/2022/04/14/the-best-old-school-italian-spots-in-northern-virginia/ 20220416.014327 
+
+https://www.cnn.com/videos/world/2022/04/15/russian-nuclear-weapons-explained-retired-general-newday-berman-vpx.cnn 20220416.014744 
+
+http://www.microsoft.com/security/blog/2022/04/14/a-clearer-lens-on-zero-trust-security-strategy-part-1/ 20220416.020010 
+
+http://www.microsoft.com/security/blog/2022/04/14/a-clearer-lens-on-zero-trust-security-strategy-part-1/ 20220416.020621 
+
+https://9to5mac.com/2022/04/15/hands-on-five-must-have-mac-accessories-to-streamline-your-setup/ 20220416.021142 
+
+https://www.theburn.com/2022/04/13/work-begins-on-first-raising-canes-in-loudoun/ 20220416.022130 
+
+https://appleinsider.com/articles/22/04/15/despite-thunderbolt-ipad-to-mac-communication-is-still-a-mess 20220416.025529 
+
+https://github.com/toptal/chewy 20220416.055120 
+
+https://www.toptal.com/ruby-on-rails/elasticsearch-for-ruby-on-rails-an-introduction-to-chewy 20220416.062039 
+
+https://www.toptal.com/ruby-on-rails/elasticsearch-for-ruby-on-rails-an-introduction-to-chewy 20220416.062249 
+
+https://www.toptal.com/ruby-on-rails/elasticsearch-for-ruby-on-rails-an-introduction-to-chewy 20220416.062546 
+
+https://www.toptal.com/ruby-on-rails/elasticsearch-for-ruby-on-rails-an-introduction-to-chewy 20220416.064145 
+
+https://rubygems.org/gems/chewy/versions/0.8.3 20220416.064212 
+
+https://www.rubydoc.info/gems/chewy/0.8.3 20220416.064338 
+
+https://aws.amazon.com/opensearch-service/pricing/ 20220416.065347 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/ruby_client.html 20220416.065640 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/ruby_client.html 20220416.065723 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/connecting.html 20220416.070735 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/advanced-config.html 20220416.070958 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/integrations.html 20220416.071117 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/transport.html 20220416.071347 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/ruby_on_rails.html 20220416.071536 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/dsl.html 20220416.071740 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/examples.html 20220416.072152 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/release_notes.html 20220416.072216 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/release_notes_80.html 20220416.072314 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/release_notes_717.html 20220416.072611 
+
+https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/examples.html 20220416.084734 
+
+https://www.elastic.co/splunk-replacement 20220416.084952 
+
+https://lifehacker.com/the-most-useful-terminal-commands-every-mac-user-should-1848799083 20220416.085716 
+
+https://www.theroot.com/toasted-jerk-chicken-empanadas-and-mango-chili-sauce-1848527281 20220416.090234 
+
+https://www.tomshardware.com/reviews/argon-eon-review-turns-raspberry-pi-into-a-nas 20220416.091000 
+
+https://www.tomshardware.com/reviews/argon-eon-review-turns-raspberry-pi-into-a-nas 20220416.091327 
+
+https://www.torquenews.com/1084/best-oil-your-new-subaru-and-how-improve-fuel-mileage 20220417.083122 
+
+https://www.theburn.com/2022/04/16/historic-barn-in-brambleton-has-a-bright-future/ 20220417.090929 
+
+https://www.analyticsinsight.net/top-10-programming-languages-used-in-autonomous-vehicles/ 20220417.091149 
+
+https://www.freecodecamp.org/news/python-ide-best-ides-and-editors-for-python/ 20220417.092152 
+
+https://www.xda-developers.com/best-smart-speakers/ 20220417.113222 
+
+https://www.space.com/spacex-spy-satellite-nrol-85-launch-preview 20220417.114712 
+
+https://www.space.com/spacex-spy-satellite-nrol-85-launch-preview 20220417.115012 
+
+https://www.macrumors.com/2022/04/16/top-stories-mac-watch-ios-16-rumors/ 20220417.115538 
+
+https://www.mlb.com/news/virginia-unconventional-triple-play 20220418.002603 
+
+https://www.tomshardware.com/news/dells-proprietary-ddr5-module-locks-out-user-upgrades 20220418.055624 
+
+https://www.tomshardware.com/news/dells-proprietary-ddr5-module-locks-out-user-upgrades 20220418.060700 
+
+https://knowablemagazine.org/article/living-world/2022/how-plants-turned-predator 20220418.061405 
+
+https://knowablemagazine.org/article/living-world/2022/how-plants-turned-predator 20220418.062241 
+
+https://arstechnica.com/science/2022/03/rocket-report-russia-responds-to-western-sanctions-uk-spaceport-moves-ahead/ 20220418.062413 
+
+https://arstechnica.com/science/2022/03/rocket-report-russia-responds-to-western-sanctions-uk-spaceport-moves-ahead/ 20220418.063242 
+
+https://foojay.io/today/introducing-the-openjdk-coordinated-restore-at-checkpoint-project/ 20220418.115021 
+
+https://blogs.oracle.com/javamagazine/post/java-jdk-flight-recorder-jfr?source=:so:tw:or:awr:jav:::&SC=:so:tw:or:awr:jav:::&pcode= 20220418.115059 
+
+https://store.usps.com/store/product/shipping-supplies/priority-mail-express-flat-rate-envelope-ep13f-P_EP_13_F 20220418.135909 
+
+https://store.usps.com/store/product/shipping-supplies/priority-mail-express-flat-rate-envelope-ep13f-P_EP_13_F 20220418.165028 
+
+https://www.infoq.com/news/2022/04/java-news-roundup-apr11-2022/ 20220418.170946 
+
+https://www.infoq.com/news/2022/04/java-news-roundup-apr11-2022/ 20220418.171448 
+
+https://github.com/xcodebuild/CodeTerminal 20220418.171617 
+
+https://www.ghacks.net/2022/04/18/workaround-for-security-issue-in-7-zip-until-it-is-fixed/ 20220418.171903 
+
+https://www.ghacks.net/2022/04/18/workaround-for-security-issue-in-7-zip-until-it-is-fixed/ 20220418.171938 
+
+https://www.ghacks.net/2022/04/18/workaround-for-security-issue-in-7-zip-until-it-is-fixed/ 20220418.171953 
+
+https://github.blog/2022-04-18-highlights-from-git-2-36/ 20220418.172114 
+
+https://www.cbsnews.com/news/spacex-launches-secret-national-reconnaissance-office-payload/ 20220418.172720 
+
+https://www.cbsnews.com/news/moskva-ship-sinking-russian-flagship-neptune-missiles/ 20220418.173200 
+
+https://www.cyberciti.biz/faq/upgrade-ubuntu-20-04-lts-to-22-04-lts/ 20220418.173227 
+
+https://www.cotosen.com/activity/best-seller-f-6811/ 20220418.173359 
+
+https://www.cotosen.com/products/mens-outdoor-vintage-nautical-compass-print-henley-shirt-7104067.html 20220418.173434 
+
+https://www.cnet.com/science/space/nasa-holoported-a-doctor-onto-the-international-space-station/ 20220418.173603 
+
+https://www.howtogeek.com/791055/apt-vs.-apt-get-whats-the-difference-on-linux/ 20220418.173944 
+
+https://www.howtogeek.com/791055/apt-vs.-apt-get-whats-the-difference-on-linux/ 20220418.174155 
+
+https://www.howtogeek.com/786516/is-fast-charging-your-smartphone-bad-for-its-battery/ 20220418.175009 
+
+https://www.howtogeek.com/786516/is-fast-charging-your-smartphone-bad-for-its-battery/ 20220418.194858 
+
+https://www.bollyinside.com/articles/how-to-check-wsl-version-in-windows-11-pc/ 20220418.195019 
+
+https://www.si.com/nfl/49ers/news/the-carolina-panthers-reportedly-have-done-their-homework-on-49ers-qb-jimmy-garoppolo 20220418.200647 
+
+https://www.usatoday.com/story/news/nation/2022/04/18/bradford-pear-trees-ban/7122246001/ 20220418.201412 
+
+https://medium.com/featurepreneur/rest-api-with-play-framework-58e9d58e586f 20220419.030015 
+
+https://airandspace.si.edu/air-and-space-quarterly/spring-2022/her-own-orbit 20220419.031622 
+
+https://www.salesforceben.com/build-your-own-ci-cd-pipeline-in-salesforce-using-github-actions/ 20220419.033758 
+
+https://docs.oracle.com/javase/10/jmx/examples-lookup-ldap-client-java.htm#JSJMX-GUID-5BA2ADC5-5597-4F1D-BF53-F1A2C7DB6117 20220419.175343 
+
+https://docs.oracle.com/cd/E19693-01/819-0997/auto45/index.html 20220419.175546 
+
+https://docs.oracle.com/cd/E19693-01/819-0997/gdxmb/index.html 20220419.175612 
+
+https://computingforgeeks.com/install-and-configure-openldap-server-ubuntu/ 20220419.181011 
+
+https://computingforgeeks.com/install-and-configure-ldap-account-manager-on-ubuntu/ 20220419.181038 
+
+https://computingforgeeks.com/install-and-configure-ldap-account-manager-on-ubuntu/ 20220419.181314 
+
+https://mkyong.com/tutorials/spring-security-tutorials/ 20220419.181449 
+
+https://www.baeldung.com/spring-security-ldap 20220419.181657 
+
+https://github.com/eugenp/tutorials/tree/master/spring-security-modules/spring-security-ldap 20220419.182100 
+
+https://docs.oracle.com/javase/jndi/tutorial/ 20220419.182551 
+
+https://docs.oracle.com/javase/jndi/tutorial/information/download.html 20220419.182641 
+
+https://docs.oracle.com/javase/jndi/tutorial/getStarted/examples/directory.html 20220419.183233 
+
+https://docs.oracle.com/javase/jndi/tutorial/getStarted/examples/src/Getattr.java 20220419.183301 
+
+https://en.wikipedia.org/wiki/Java_Naming_and_Directory_Interface 20220419.183920 
+
+https://finance.yahoo.com/news/another-pentagon-official-exits-saying-164702247.html 20220419.185901 
+
+https://github.com/corretto/corretto-8/releases/tag/8.332.08.1 20220419.195343 
+
+https://github.com/corretto/corretto-8/releases/tag/8.332.08.1 20220419.195416 
+
+https://arstechnica.com/science/2022/04/oreology-investigates-mystery-of-why-oreo-creme-filling-usually-sticks-to-one-side/ 20220419.200056 
+
+https://arstechnica.com/science/2022/04/oreology-investigates-mystery-of-why-oreo-creme-filling-usually-sticks-to-one-side/ 20220419.200212 
+
+https://arstechnica.com/science/2022/04/oreology-investigates-mystery-of-why-oreo-creme-filling-usually-sticks-to-one-side/ 20220419.200233 
+
+https://finance.yahoo.com/news/another-pentagon-official-exits-saying-164702247.html 20220419.205939 
+
+https://freecomputerbooks.com/JNDI-API-Tutorial.html 20220419.210217 
+
+https://books.google.com/books/about/JNDI_API_Tutorial_and_Reference.html?id=54o_AQAAIAAJ 20220419.210706 
+
+https://books.google.com/books/about/JNDI_API_Tutorial_and_Reference.html?id=54o_AQAAIAAJ 20220419.210721 
+
+https://pay.ebay.com/rgxo?action=view&sessionid=1307032925 20220419.212250 
+
+https://www.infoq.com/articles/native-java-real-world/ 20220420.042034 
+
+https://www.cnn.com/2022/04/19/cars/volkswagen-electric-tesla-elon-musk/index.html 20220420.042419 
+
+https://www.cnn.com/2022/04/19/cars/volkswagen-electric-tesla-elon-musk/index.html 20220420.043425 
+
+https://www.nationalreview.com/corner/starbucks-is-latte-liberal-until-its-not/ 20220420.045032 
+
+https://stackoverflow.com/questions/64545975/rails-app-denied-access-to-mysql-for-user-root-localhost 20220420.050021 
+
+https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-april-2022/ 20220420.051618 
+
+https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-april-2022/ 20220420.052005 
+
+https://code.visualstudio.com/docs/languages/java 20220420.052022 
+
+https://dev.to/thomasvanholder/10-vs-code-extensions-for-ruby-on-rails-developers-89a 20220420.052538 
+
+https://dev.to/thomasvanholder/10-vs-code-extensions-for-ruby-on-rails-developers-89a 20220420.053015 
+
+https://gearupwindows.com/how-to-turn-off-run-command-windows-r-in-windows-11/ 20220420.090124 
+
+https://gearupwindows.com/how-to-turn-off-run-command-windows-r-in-windows-11/ 20220420.204553 
+
+https://visualstudiomagazine.com/articles/2022/04/19/java-vs-code-apr22.aspx?m=2 20220420.204638 
+
+https://www.theregister.com/2022/04/20/aws_log4j_patches/ 20220420.205841 
+
+https://www.procell.com/en-us/ 20220420.210517 
+
+https://arstechnica.com/science/2022/04/lithium-costs-a-lot-of-money-so-why-arent-we-recycling-lithium-batteries/ 20220420.210543 
+
+https://www.fastcompany.com/90741658/an-aerospace-engineer-explains-how-hypersonic-missiles-work 20220420.210647 
+
+https://www.fastcompany.com/90741658/an-aerospace-engineer-explains-how-hypersonic-missiles-work 20220421.034623 
+
+https://toolguyd.com/dewalt-atomic-tape-measures/ 20220421.035051 
+
+https://toolguyd.com/dewalt-atomic-laser-distance-measurer/ 20220421.035117 
+
+https://toolguyd.com/dewalt-green-laser-levels/ 20220421.041627 
+
+https://www.toolnut.com/dewalt-dcle34030g-dewalt-20v-3x360-laser-2-0ah-kit.html 20220421.041654 
+
+https://www.toolnut.com/dewalt-dcle34030g-dewalt-20v-3x360-laser-2-0ah-kit.html 20220421.042044 
+
+https://www.c4isrnet.com/air/2022/04/20/spacex-shut-down-a-russian-electromagnetic-warfare-attack-in-ukraine-last-month-and-the-pentagon-is-taking-notes/ 20220421.042123 
+
+https://guides.rubyonrails.org/getting_started.html 20220421.042654 
+
+https://guides.rubyonrails.org/getting_started.html 20220421.042836 
+
+https://guides.rubyonrails.org/getting_started.html 20220421.045355 
+
+https://guides.rubyonrails.org/v3.2/getting_started.html 20220421.052651 
+
+https://guides.rubyonrails.org/v3.2/getting_started.html 20220421.053807 
+
+https://blogs.apache.org/security/entry/cve-2021-44228 20220421.053902 
+
+https://blogs.apache.org/security/entry/cve-2021-44228 20220421.054026 
+
+https://lists.apache.org/thread/065766dldbv7o37cxopy2w41xws5mffb 20220421.054215 
+
+https://lucene.apache.org/core/downloads.html 20220421.054503 
+
+https://www.apache.org/dyn/closer.cgi#verify 20220421.054549 
+
+https://www.apache.org/dyn/closer.cgi#verify 20220421.054739 
+
+https://lucene.apache.org/core/8_11_1/changes/Changes.html 20220421.054916 
+
+https://lucene.apache.org/core/9_1_0/changes/Changes.html 20220421.055058 
+
+https://lucene.apache.org/core/9_1_0/changes/Changes.html#v9.0.0.system_requirements 20220421.055622 
+
+https://www.infoq.com/news/2022/04/netflix-studio-search/ 20220421.205833 
+
+https://www.notebookcheck.net/Apple-M2-Mac-mini-now-hotly-tipped-to-be-joining-the-M2-MacBook-Air-at-WWDC-2022.614913.0.html 20220421.210513 
+
+https://nakedsecurity.sophos.com/2022/04/20/critical-cryptographic-java-security-blunder-patched-update-now/ 20220421.211213 
+
+https://nakedsecurity.sophos.com/2022/04/20/critical-cryptographic-java-security-blunder-patched-update-now/ 20220422.043957 
+
+https://www.thurrott.com/linux/266004/canonical-releases-ubuntu-22-04-lts 20220422.044937 
+
+https://www.theregister.com/2022/04/20/aws_log4j_patches/ 20220422.045616 
+
+https://www.androidpolice.com/microsofts-password-manager-gets-generator/ 20220422.050311 
+
+https://www.tomshardware.com/news/cm4-carrier-board-touchscreen 20220422.050935 
+
+https://liliputing.com/2022/04/raspberry-pad-5-is-a-raspberry-pi-cm4-carrier-board-with-a-5-inch-touchscreen-display.html 20220422.051021 
+
+https://liliputing.com/2022/04/raspberry-pad-5-is-a-raspberry-pi-cm4-carrier-board-with-a-5-inch-touchscreen-display.html 20220422.052026 
+
+https://m.youtube.com/watch?v=5QhAOP-QgAo 20220422.052958 
+
+https://www.19fortyfive.com/2022/04/moskva-how-russias-sunken-warship-will-change-naval-warfare-forever/ 20220422.084736 
+
+https://www.19fortyfive.com/2022/04/moskva-how-russias-sunken-warship-will-change-naval-warfare-forever/ 20220422.085222 
+
+https://www.theburn.com/2022/04/21/ashburns-riverside-square-announces-new-future-tenants/ 20220422.174652 
+
+https://www.raspberrypi.com/news/pimoroni-trilobot-review-hackspace-54/ 20220422.174745 
+
+https://www.raspberrypi.com/news/pimoroni-trilobot-review-hackspace-54/ 20220422.175429 
+
+https://ubuntu.com/blog/ubuntu-22-04-lts-released 20220422.175819 
+
+https://ubuntu.com/blog/ubuntu-22-04-lts-released 20220422.175830 
+
+https://ubuntu.com/blog/ubuntu-22-04-lts-released 20220422.180319 
+
+https://www.insider.com/iphone-charger-apple-pay-brazilian-man-1000-not-including-adapter-2022-4 20220422.180736 
+
+https://www.t3.com/news/sonos-tech-game-changer-april-2022 20220422.181220 
+
+https://www.debugpoint.com/2022/04/10-things-to-do-ubuntu-22-04-after-install/ 20220423.032953 
+
+https://petapixel.com/2022/04/22/arducam-brings-a-64mp-high-resolution-camera-to-raspberry-pi/ 20220423.033140 
+
+https://petapixel.com/2022/04/22/arducam-brings-a-64mp-high-resolution-camera-to-raspberry-pi/ 20220423.033305 
+
+https://arstechnica.com/science/2022/04/rocket-report-falcon-9-says-aloha-to-hawaii-blue-origin-to-abandon-ship/ 20220423.082216 
+
+https://www.omgubuntu.co.uk/2022/04/ubuntu-22-04-lts-is-now-available-to-download 20220423.082346 
+
+https://www.omgubuntu.co.uk/2022/04/ubuntu-22-04-lts-is-now-available-to-download 20220423.082932 
+
+https://nimalist-store.com/products/nimalist-airtag-wallet-leather 20220423.083214 
+
+https://securityaffairs.co/wordpress/130522/security/poc-java-vulnerability-cve-2022-21449.html 20220424.064946 
+
+https://www.tomsguide.com/how-to/how-to-plant-grass-seed 20220424.065152 
+
+https://www.tomsguide.com/how-to/how-to-plant-grass-seed 20220424.065755 
+
+https://www.tomsguide.com/how-to/how-to-get-rid-of-moles 20220424.070110 
+
+https://thewestnews.com/mac-mini-2022-release-date-price-specifications-and-more-details/76452 20220424.070939 
+
+https://www.19fortyfive.com/2022/04/meet-the-x-37b-the-space-plane-created-for-a-war-with-russia/ 20220424.071308 
+
+https://www.19fortyfive.com/2022/04/meet-the-x-37b-the-space-plane-created-for-a-war-with-russia/ 20220424.072048 
+
+https://www.19fortyfive.com/2022/04/heres-why-israel-isnt-giving-military-aid-to-ukraine/ 20220424.073119 
+
+https://www.19fortyfive.com/2022/04/introducing-the-x-40a-the-first-space-plane-that-made-history/ 20220424.073848 
+
+http://www.19fortyfive.com/2022/04/meet-the-centurion-the-tank-built-to-fight-russia-if-world-war-iii-happened/ 20220424.075557 
+
+https://balintreczey.hu/blog/firefox-on-ubuntu-22-04-from-deb-not-from-snap/ 20220424.075959 
+
+https://balintreczey.hu/blog/firefox-on-ubuntu-22-04-from-deb-not-from-snap/ 20220424.081048 
+
+https://www.ft.com/content/23de4578-a760-4568-8f70-21fb96bc7f7f 20220424.081142 
+
+https://www.ft.com/content/23de4578-a760-4568-8f70-21fb96bc7f7f 20220424.082438 
+
+https://nypost.com/2022/04/22/obamas-utter-hypocrisy-on-disinformation/ 20220424.105126 
+
+https://www.theburn.com/2022/04/23/new-restaurant-causing-stir-with-alligator-appetizers/ 20220424.123132 
+
+https://www.theburn.com/2022/04/23/new-restaurant-causing-stir-with-alligator-appetizers/ 20220424.123142 
+
+https://www.19fortyfive.com/2022/04/a-12-the-oxcart-spy-plane-was-even-faster-than-the-sr-71/ 20220424.214023 
+
+https://www.19fortyfive.com/2022/04/putins-nightmare-russias-military-is-pulling-out-of-storage-old-soviet-weapons/ 20220424.214619 
+
+https://www.19fortyfive.com/2022/04/seawolf-the-submarine-designed-to-wage-world-war-iii-on-russia/ 20220424.214759 
+
+https://www.19fortyfive.com/2022/04/aviation-history-speed-edition-meet-the-5-fastest-planes-ever-pictures/ 20220424.220043 
+
+https://www.19fortyfive.com/2022/03/we-think-we-know-why-russias-attack-helicopters-keep-dying-in-ukraine/ 20220424.220130 
+
+https://www.19fortyfive.com/2022/03/we-think-we-know-why-russias-attack-helicopters-keep-dying-in-ukraine/ 20220424.220845 
+
+https://www.19fortyfive.com/2022/03/we-think-we-know-why-russias-attack-helicopters-keep-dying-in-ukraine/ 20220424.221111 
+
+https://www.19fortyfive.com/2022/03/putin-has-a-problem-ukraine-is-firing-captured-russian-missiles/ 20220424.221409 
+
+https://www.usatoday.com/story/news/nation/2022/04/22/mulch-tips-to-keep-plants-trees-safe/7371710001/ 20220425.103057 
+
+https://thehill.com/news/campaign/3460529-can-dr-oz-complete-his-gop-metamorphosis-with-a-senate-win/ 20220425.103120 
+
+https://thehill.com/news/campaign/3460529-can-dr-oz-complete-his-gop-metamorphosis-with-a-senate-win/ 20220425.104032 
+
+https://www.labnol.org/extract-text-from-pdf-220422 20220425.104337 
+
+https://www.bleepingcomputer.com/news/microsoft/enable-windows-11s-god-mode-to-access-all-settings-in-one-screen/ 20220425.104647 
+
+https://www.infoq.com/news/2022/04/red-hat-releases-hibernate-6/ 20220425.104922 
+
+https://www.cnbc.com/2022/04/24/what-a-future-without-passwords-would-look-like-when-it-might-happen.html 20220425.122522 
+
+https://thehill.com/policy/national-security/3461869-fbi-chief-says-espionage-threat-posed-by-china-unprecedented-in-history/ 20220425.123634 
+
+https://www.politico.com/news/2022/04/24/putin-invade-moldova-ukraine-00027380 20220425.130622 
+
+https://www.gawker.com/culture/it-is-still-a-bad-idea-to-antagonize-mike-tyson 20220425.132931 
+
+https://www.gawker.com/culture/it-is-still-a-bad-idea-to-antagonize-mike-tyson 20220425.134229 
+
+https://www.gawker.com/culture/it-is-still-a-bad-idea-to-antagonize-mike-tyson 20220425.134244 
+
+https://www.techradar.com/how-to/youve-been-using-windows-cut-and-paste-all-wrong 20220425.135049 
+
+https://www.techradar.com/how-to/youve-been-using-windows-cut-and-paste-all-wrong 20220425.135909 
+
+https://www.raspberrypi.com/news/how-to-create-stencils-with-a-vinyl-cutter-custom-pc-225/ 20220425.184230 
+
+https://www.cultofmac.com/773859/duckduckgo-and-brave-browsers-protect-against-googles-sneaky-amp-pages/ 20220425.200723 
+
+https://www.theverge.com/2022/4/25/23041536/microsoft-teams-windows-app-store-built-in 20220425.201709 
+
+https://www.howtogeek.com/797978/you-can-still-use-wired-headphones-without-a-headphone-jack/ 20220425.202419 
+
+https://www.slashfilm.com/839236/every-star-trek-show-and-movie-in-chronological-order/ 20220425.210855 
+
+https://www.slashfilm.com/839236/every-star-trek-show-and-movie-in-chronological-order/ 20220425.210912 
+
+https://www.slashfilm.com/839236/every-star-trek-show-and-movie-in-chronological-order/ 20220425.213841 
+
+https://www.19fortyfive.com/2022/04/tb2-switchblade-and-punisher-top-3-drones-ukraine-is-using-against-russia/ 20220425.234512 
+
+https://www.19fortyfive.com/2022/04/tb2-switchblade-and-punisher-top-3-drones-ukraine-is-using-against-russia/ 20220425.235534 
+
+https://www.19fortyfive.com/2022/03/the-real-reason-putin-invaded-ukraine/ 20220426.000349 
+
+https://www.19fortyfive.com/2022/04/swordfish-the-old-plane-that-help-sink-hitlers-bismarck-battleship/ 20220426.001311 
+
+https://www.19fortyfive.com/2022/04/tb2-switchblade-and-punisher-top-3-drones-ukraine-is-using-against-russia/ 20220426.001504 
+
+https://www.foxnews.com/politics/big-tech-censored-biden-criticism-more-than-600-times-over-2-years-report 20220426.002056 
+
+https://www.cnbc.com/2022/04/25/why-you-shouldnt-ignore-any-letters-from-the-irs.html 20220426.090753 
+
+https://www.cnbc.com/2022/04/25/half-of-parents-still-financially-support-adult-children-study-shows.html 20220426.090837 
+
+https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html 20220426.090933 
+
+https://www.infoworld.com/article/3653331/jdk-19-the-features-targeted-for-java-19.html 20220426.090957 
+
+https://www.nationalreview.com/photos/cartoons-of-the-day-april-25-2022/ 20220426.093609 
+
+https://www.wkrg.com/northwest-florida/santa-rosa-county/sheriff-milton-man-charged-in-neighborhood-burglary-spree/ 20220426.094456 
+
+https://www.foxnews.com/politics/secretive-soros-funded-group-works-behind-scenes-biden-admin-policy-documents 20220426.101554 
+
+https://thetrek.co/appalachian-trail/the-mysteries-of-virginia/ 20220426.110458 
+
+https://thetrek.co/appalachian-trail/the-mysteries-of-virginia/ 20220426.111144 
+
+https://m.youtube.com/watch?v=NuvNK6oFdWU 20220426.115409 
+
+https://www.foxnews.com/us/companies-that-loudly-supported-blm-fall-silent-when-confronted-with-skyrocketing-black-murders 20220426.122941 
+
+https://www.foxbusiness.com/retail/retail-companies-support-police-reform-2020-ask-congress-increase-measures-retail-theft 20220426.123052 
+
+https://www.foxbusiness.com/retail/retail-companies-support-police-reform-2020-ask-congress-increase-measures-retail-theft 20220426.124117 
+
+https://www.foxbusiness.com/retail/retail-companies-support-police-reform-2020-ask-congress-increase-measures-retail-theft 20220426.125427 
+
+https://www.businessinsider.com/uk-backs-ukraine-attack-russia-territory-james-heappey-2022-4 20220426.131926 
+
+https://www.infoq.com/news/2022/04/java-news-roundup-apr18-2022/ 20220426.234644 
+
+https://www.infoq.com/news/2022/04/java-news-roundup-apr18-2022/ 20220426.234908 
+
+https://visualvm.github.io/relnotes.html 20220427.000629 
+
+https://visualvm.github.io/ 20220427.000655 
+
+https://visualvm.github.io/ 20220427.000718 
+
+https://www.digitaltrends.com/computing/mac-mini-rumors-news-price-release-date/ 20220427.001410 
+
+https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/ 20220427.001610 
+
+https://jfrog.com/blog/cve-2022-21449-psychic-signatures-analyzing-the-new-java-crypto-vulnerability/ 20220427.064636 
+
+https://arstechnica.com/information-technology/2022/04/major-crypto-blunder-in-java-enables-psychic-paper-forgeries/ 20220427.064713 
+
+https://arstechnica.com/information-technology/2022/04/major-crypto-blunder-in-java-enables-psychic-paper-forgeries/ 20220427.065030 
+
+https://hackaday.com/2022/04/22/this-week-in-security-javas-psychic-signatures-aws-escape-and-a-nasty-windows-bug/ 20220427.065355 
+
+https://hackaday.com/2022/04/22/modular-anti-drone-drone-sacrifices-itself-for-self-defense/ 20220427.065624 
+
+https://hackaday.com/2015/11/04/shoot-down-drones-with-pumpkin-cannons/ 20220427.065826 
+
+https://hackaday.com/2015/11/04/shoot-down-drones-with-pumpkin-cannons/ 20220427.065945 
+
+https://m.youtube.com/watch?v=cBI_KvJiKSY 20220427.071327 
+
+https://www.howtogeek.com/792783/how-to-use-the-pmap-command-on-linux/ 20220427.072456 
+
+https://www.bleepingcomputer.com/news/security/public-interest-in-log4shell-fades-but-attack-surface-remains/ 20220427.073115 
+
+https://wccftech.com/how-to/disable-the-telemetry-on-windows-11-and-stop-microsoft-from-logging-your-data/ 20220427.075638 
+
+https://developers.redhat.com/articles/2022/04/19/best-practices-java-single-core-containers#the_jvm_as_a_dynamic_execution_platform 20220427.085013 
+
+https://www.jetbrains.com/idea/guide/ 20220427.085620 
+
+https://www.jetbrains.com/idea/guide/tips/search-everywhere/ 20220427.085639 
+
+https://www.jetbrains.com/idea/guide/tips/enable-soft-wrap/ 20220427.085654 
+
+https://www.jetbrains.com/idea/guide/tips/download-jdk/ 20220427.085714 
+
+https://www.youtube.com/watch?v=H_XxH66lm3U 20220427.085822 
+
+https://www.youtube.com/watch?v=H_XxH66lm3U 20220427.091338 
+
+https://www.graalvm.org/release-notes/22_1/#ruby 20220427.091532 
+
+https://computingforgeeks.com/install-and-configure-openldap-server-ubuntu/ 20220427.092036 
+
+https://computingforgeeks.com/install-and-configure-openldap-server-ubuntu/ 20220427.092715 
+
+https://www.linuxbabe.com/ubuntu/install-configure-openldap-server-ubuntu-16-04 20220427.094318 
+
+https://www.techrepublic.com/article/how-to-install-openldap-on-ubuntu-18-04/ 20220427.094905 
+
+https://www.techrepublic.com/article/how-to-install-openldap-on-ubuntu-18-04/ 20220427.095509 
+
+https://devconnected.com/how-to-search-ldap-using-ldapsearch-examples/ 20220427.100009 
+
+https://devconnected.com/how-to-search-ldap-using-ldapsearch-examples/ 20220427.101059 
+
+https://www.ibm.com/docs/en/cloud-private/3.2.x?topic=ldap-troubleshooting-configuration 20220427.101403 
+
+https://www.ibm.com/docs/en/cloud-private/3.2.x?topic=ldap-troubleshooting-configuration 20220427.102102 
+
+https://www.theburn.com/2022/04/26/leesburg-roy-rogers-getting-a-major-makeover/ 20220427.102757 
+
+https://federalnewsnetwork.com/reporters-notebook-jason-miller/2022/04/nsa-quietly-reawarded-its-wild-and-stormy-cloud-contract/ 20220427.225742 
+
+https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/04/time-for-dod-to-cancel-jedi-ride-the-cias-cloud-coattails/ 20220427.225846 
+
+https://federalnewsnetwork.com/reporters-notebook-jason-miller/2020/04/time-for-dod-to-cancel-jedi-ride-the-cias-cloud-coattails/ 20220427.230441 
+
+https://www.cnn.com/2022/04/27/politics/biden-alabama-javelin/index.html 20220427.231435 
+
+https://www.cnn.com/2022/04/27/politics/biden-alabama-javelin/index.html 20220427.232127 
+
+https://www.foxnews.com/opinion/defense-secretary-austin-russia-ukraine-rebecca-grant 20220428.001832 
+
+https://www.nytimes.com/2022/04/27/science/nasa-mars-wreckage-photo.html 20220428.002838 
+
+https://www.nytimes.com/2022/04/27/science/nasa-mars-wreckage-photo.html 20220428.044655 
+
+https://www.lastweekinaws.com/blog/awss-open-source-problem/ 20220428.050204 
+
+https://www.inputmag.com/reviews/how-to-get-official-apple-braided-lightning-usb-c-cable 20220428.053100 
+
+https://www.youtube.com/watch?v=I6VCpyrwLv0 20220428.065113 
+
+https://www.nasaspaceflight.com/2022/04/crew-4-launch/ 20220428.071859 
+
+https://www.jpl.nasa.gov/news/nasas-mars-helicopter-spots-gear-that-helped-perseverance-rover-land 20220428.072536 
+
+https://www.blinkist.com/magazine/posts/9-books-elon-musks-reading-list-will-reinvent-life/?twclid=2evpqbyybxo38ajcxnz36ma0d&utm_source=twitter&utm_medium=paid&utm_campaign=20210206_TW_iOS_WCV_CPC_US_U_25-65_INT-BusinessNews_ElonMusk&utm_term=20210206_TW_iOS_WCV_CPC_US_U_25-65_INT-BusinessNews_ElonMusk&utm_content=Link-O-1_Tesla_Ink_Title_9BooksElon 20220428.073636 
+
+https://medium.com/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7 20220428.083424 
+
+https://javarevisited.blogspot.com/2018/05/10-tips-to-become-better-java-developer.html#axzz7RewD9gjp 20220428.083633 
+
+https://javarevisited.blogspot.com/2018/05/10-tips-to-become-better-java-developer.html#axzz7RewD9gjp 20220428.083938 
+
+https://www.raspberrypi.com/news/this-raspberry-pi-zero-camera-is-brilliant/ 20220428.090321 
+
+https://www.raspberrypi.com/news/this-raspberry-pi-zero-camera-is-brilliant/ 20220428.090950 
+
+https://www.cnn.com/2022/04/27/europe/russia-tanks-blown-turrets-intl-hnk-ml/index.html 20220428.093724 
+
+https://www.cnn.com/2022/04/27/europe/russia-tanks-blown-turrets-intl-hnk-ml/index.html 20220428.093814 
+
+https://www.claudiobernasconi.ch/2016/04/17/creating-a-self-signed-x509-certificate-using-openssl-on-windows/ 20220428.104750 
+
+https://linuxize.com/post/creating-a-self-signed-ssl-certificate/ 20220428.105609 
+
+https://linuxize.com/post/creating-a-self-signed-ssl-certificate/ 20220428.111954 
+
+https://stackoverflow.com/questions/42541356/how-to-create-a-self-signed-ssl-certificate-for-use-with-tomcat 20220428.112856 
+
+https://dev.to/orestispantazos/self-signed-ssl-certificate-in-tomcat-2iid 20220428.113114 
+
+https://ldapwiki.com/wiki/Distinguished%20Names 20220428.113257 
+
+https://www.zdnet.com/article/how-to-quickly-spin-up-a-linux-virtual-machine-with-boxes/ 20220428.113953 
+
+https://www.foxnews.com/world/germany-flips-again-ukraine-aid-heavy-arms-criticism 20220428.131413 
+
+https://www.foxnews.com/world/germany-flips-again-ukraine-aid-heavy-arms-criticism 20220428.131708 
+
+https://m.youtube.com/watch?v=i5NFGOKG0uU 20220428.132927 
+
+https://www.ralfebert.com/tutorials/rails-deployment/ 20220428.211311 
+
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ruby-rails-tutorial.html 20220428.213304 
+
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ruby-rails-tutorial.html 20220428.213321 
+
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ruby-rails-tutorial.html 20220428.223854 
+
+https://stackoverflow.com/questions/9642375/forcing-ssl-client-socket-to-send-certificate 20220428.224955 
+
+https://stackoverflow.com/questions/9642375/forcing-ssl-client-socket-to-send-certificate 20220428.225641 
+
+https://stackoverflow.com/questions/875467/java-client-certificates-over-https-ssl 20220428.225902 
+
+https://edgeguides.rubyonrails.org/security.html 20220428.230001 
+
+https://edgeguides.rubyonrails.org/security.html 20220428.231127 
+
+https://edgeguides.rubyonrails.org/security.html 20220429.032100 
+
+https://www.engineyard.com/blog/encrypted-rails-secrets-on-rails-5-1/ 20220429.034316 
+
+https://www.engineyard.com/blog/encrypted-rails-secrets-on-rails-5-1/ 20220429.034341 
+
+https://www.cnn.com/2022/04/29/politics/ukraine-war-week-that-changed/index.html 20220429.040902 
+
+https://www.wired.com/story/russia-hacked-attacks/ 20220429.041444 
+
+https://www.tomshardware.com/news/khadas-vim4-raspberry-pi-competitor-has-8-cores-wi-fi-6 20220429.041600 
+
+https://www.tomshardware.com/news/khadas-vim4-raspberry-pi-competitor-has-8-cores-wi-fi-6 20220429.041949 
+
+https://www.engineyard.com/blog/encrypted-rails-secrets-on-rails-5-1/ 20220429.042227 
+
+https://redmonk.com/jgovernor/2022/04/28/modern-java-delivery-java-17-18-and-open-jdk/ 20220429.042259 
+
+https://redmonk.com/jgovernor/2022/04/28/modern-java-delivery-java-17-18-and-open-jdk/ 20220429.042455 
+
+https://edgeguides.rubyonrails.org/security.html 20220429.042520 
+
+https://edgeguides.rubyonrails.org/security.html 20220429.042535 
+
+https://stackoverflow.com/questions/875467/java-client-certificates-over-https-ssl 20220429.042556 
+
+https://stackoverflow.com/questions/875467/java-client-certificates-over-https-ssl 20220429.042610 
+
+https://stackoverflow.com/questions/9642375/forcing-ssl-client-socket-to-send-certificate 20220429.042623 
+
+https://stackoverflow.com/questions/22606579/apache-httpclient-4-3-and-x509-client-certificate-to-authenticate 20220429.042646 
+
+https://www.ralfebert.com/tutorials/rails-deployment/ 20220429.042708 
+
+https://www.ralfebert.com/tutorials/rails-deployment/ 20220429.042727 
+
+https://www.zdnet.com/article/how-to-quickly-spin-up-a-linux-virtual-machine-with-boxes/ 20220429.042946 
+
+https://ldapwiki.com/wiki/Distinguished%20Names 20220429.043023 
+
+https://dev.to/orestispantazos/self-signed-ssl-certificate-in-tomcat-2iid 20220429.043117 
+
+https://dev.to/orestispantazos/self-signed-ssl-certificate-in-tomcat-2iid 20220429.043137 
+
+https://www.infoworld.com/article/3658990/oracle-java-popularity-sliding-new-relic-reports.html 20220429.043241 
+
+https://www.infoworld.com/article/3658990/oracle-java-popularity-sliding-new-relic-reports.html 20220429.043512 
+
+https://stackoverflow.com/questions/22044097/how-can-i-create-https-connection-with-self-signed-certificate-on-grails 20220429.043537 
+
+https://stackoverflow.com/questions/22044097/how-can-i-create-https-connection-with-self-signed-certificate-on-grails 20220429.043547 
+
+https://linuxize.com/post/creating-a-self-signed-ssl-certificate/ 20220429.043606 
+
+https://linuxize.com/post/creating-a-self-signed-ssl-certificate/ 20220429.043629 
+
+https://www.claudiobernasconi.ch/2016/04/17/creating-a-self-signed-x509-certificate-using-openssl-on-windows/ 20220429.043702 
+
+https://www.linuxbabe.com/ubuntu/install-configure-openldap-server-ubuntu-16-04 20220429.043736 
+
+https://computingforgeeks.com/install-and-configure-ldap-account-manager-on-ubuntu/ 20220429.043804 
+
+https://computingforgeeks.com/install-and-configure-openldap-server-ubuntu/ 20220429.043829 
+
+https://guides.rubyonrails.org/v3.2/getting_started.html 20220429.044012 
+
+https://code.visualstudio.com/docs/languages/java 20220429.044034 
+
+https://code.visualstudio.com/docs/languages/java 20220429.044056 
+
+https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-april-2022/ 20220429.044118 
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases 20220429.044220 
+
+https://www.techradar.com/news/serious-java-vulnerability-lets-hackers-masquerade-as-anyone-they-please 20220429.044441 
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh 20220429.062917 
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account 20220429.063751 
+
+https://www.crn.com/news/cloud/aws-wins-out-over-microsoft-for-10b-nsa-cloud-contract 20220429.065859 
+
+https://eji4evk5kxx.exactdn.com/wp-content/uploads/2022/04/Turing-Smart-Display.jpg?lossy=1&w=2560&ssl=1 20220429.070622 
+
+https://www.foxnews.com/politics/defund-democrats-expand-power-2022-midterms 20220429.072905 
+
+https://www.foxnews.com/politics/defund-democrats-expand-power-2022-midterms 20220429.073201 
+
+https://www.theburn.com/2022/04/28/big-buns-damn-good-burgers-headed-to-loudoun-county/ 20220429.073508 
+
+https://itsfoss.com/things-to-do-after-installing-ubuntu-22-04/ 20220429.090833 
+
+https://www.youtube.com/embed/yKuFmgmPb7E 20220429.091642 
+
+https://www.youtube.com/embed/yKuFmgmPb7E 20220429.091957 
+
+https://www.hackster.io/news/usb-c-cable-tester-quickly-indicates-which-type-of-cable-you-have-dd97ad91ca05 20220429.110354 
+
+https://www.foxnews.com/media/joe-hunter-biden-show-corruption-biden-family-business-gingrich 20220429.113718 
+
+https://www.newstatesman.com/international-politics/geopolitics/2022/03/as-finland-and-sweden-consider-nato-membership-austria-clings-to-neutrality 20220429.115543 
+
+https://www.tax.virginia.gov/news/virginias-individual-income-tax-filing-and-payment-deadline-monday-may-2-2022 20220429.124201 
+
+https://www.tax.virginia.gov/news/virginias-individual-income-tax-filing-and-payment-deadline-monday-may-2-2022 20220429.124207 
+
+https://www.tax.virginia.gov/news/virginias-individual-income-tax-filing-and-payment-deadline-monday-may-2-2022 20220429.124405 
+
+https://www.dewalt.com/product/dcb094k/usb-charging-kit 20220429.131443 
+
+https://www.dewalt.com/product/dcb094k/usb-charging-kit 20220429.131454 
+
+https://thehill.com/news/house/3471619-vulnerable-democrats-press-pelosi-to-reverse-rejection-of-gas-tax-holiday/ 20220429.134634 
+
+https://www.reuters.com/world/how-military-technology-reaches-russia-breach-us-export-controls-2022-04-29/ 20220429.170655 
+
+https://finance.yahoo.com/news/secure-act-2-0-passes-103035398.html 20220429.195831 
+
+https://www.fool.com/retirement/2022/04/28/claiming-social-security-moves-to-make-first/?source=eptmdelnk0000001&utm_source=usa-today&utm_medium=feed&utm_campaign=article 20220429.202508 
+
+https://www.cnn.com/2022/04/28/success/money-moves-recession-geopolitical-unrest/index.html 20220429.204346 
+
+https://www.politico.com/news/2022/04/29/new-survey-reveals-stark-racial-divide-in-teacher-retention-rates-00028386 20220429.212428 
+
+
